@@ -36,7 +36,8 @@ def main():
         "Sec-Ch-Ua-Mobile": "?0",
         "Sec-Ch-Ua-Platform": '"Windows"',
         "Sec-Fetch-Dest": "document",
-        "Sec-Fetch-Mode": "navigate",
+        # "Sec-Fetch-Mode": "navigate",
+        "Sec-Fetch-Mode": "cors",
         "Sec-Fetch-Site": "same-origin",
         "Sec-Fetch-User": "?1",
         "Upgrade-Insecure-Requests": "1",
@@ -44,23 +45,24 @@ def main():
     }
     # keywords.txt中每行为一个搜索关键词
     keywords_list = read_keywords('keywords.txt')
-    search_session_num = len(keywords_list)
-    search_threads = []
-    search_sessions = create_sessions(search_session_num)
-    for id, session in enumerate(search_sessions):
-        thread = threading.Thread(target=main_search, args=(headers, session, keywords_list[id]+'.json', keywords_list[id], id))
-        search_threads.append(thread)
-        thread.start()
-    for thread in search_threads:
-        thread.join()
-    for session in search_sessions:
-        session.close()
+    # search_session_num = len(keywords_list)
+    # search_threads = []
+    # search_sessions = create_sessions(search_session_num)
+
+    # for id, session in enumerate(search_sessions):
+    #     thread = threading.Thread(target=main_search, args=(headers, session, keywords_list[id]+'.json', keywords_list[id], id))
+    #     search_threads.append(thread)
+    #     thread.start()
+    # for thread in search_threads:
+    #     thread.join()
+    # for session in search_sessions:
+    #     session.close()
     
-    # record pigcha location
-    location = record_location(2)
-    proxy_num = 0
+    # # record pigcha location
+    # location = record_location(2)
+    # proxy_num = 0
     # download 
-    download_session_num = len(keywords_list)
+    download_session_num = 2
     download_threads = []
     download_sessions = create_sessions(download_session_num)
 
@@ -73,10 +75,10 @@ def main():
         for thread in download_threads:
             thread.join()
 
-        bug_repair(location,proxy_num)
-        proxy_num = update_proxy(proxy_num)
+    #     bug_repair(location,proxy_num)
+    #     proxy_num = update_proxy(proxy_num)
 
-        time.sleep(2)
+    #     time.sleep(2)
 
 
 
@@ -90,5 +92,5 @@ def main():
     
 
 if __name__ == '__main__':
-    logger.add("runtime_{time:YYYY-MM-DD_HH-mm}.log")       # 创建一个文件名为runtime的log文件
+    logger.add("logs/runtime_{time:YYYY-MM-DD_HH-mm}.log")       # 创建一个文件名为runtime的log文件
     main()

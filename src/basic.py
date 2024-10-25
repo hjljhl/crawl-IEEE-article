@@ -18,6 +18,12 @@ def saveJson(fname, cont):
     # 如果要保存的文件不存在，创建文件
     # if not os.path.exists(os.path.dirname(fname)):
     #     os.makedirs(os.path.dirname(fname))
+    # 如果 fname 以 .json 或 .csv 结尾， 保存到index文件夹
+    # if re.match(r'.*\.json$', fname):
+    #     fname = os.path.join('index/', fname)
+    # # 如果以 .pdf 结尾，保存到pdfs文件夹
+    # if re.match(r'.*\.pdf$', fname):
+    #     fname = os.path.join('pdfs/', fname)
     with open(fname, 'w') as fp:
         json.dump(cont, fp, indent=4)
 

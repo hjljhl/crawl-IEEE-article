@@ -14,7 +14,7 @@ def download(headers, session, url:str, articleTitle:str, save_dir:str,thread_id
         thread_id (int, optional): 线程id. Defaults to 0.
     """
     # download pdf
-    pdfName = re.sub(r'[\\/|:*?"<>{}$]',' ',articleTitle) + '.pdf'
+    pdfName = re.sub(r'[\\/|:*?"<>{}$]','',articleTitle) + '.pdf'
     path = '/'.join([save_dir, pdfName])
     # path = '/'.join(["G:/", save_dir, pdfName])
     # get pdf link

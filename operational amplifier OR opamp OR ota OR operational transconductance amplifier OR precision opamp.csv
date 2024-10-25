@@ -1,0 +1,101 @@
+﻿Page,Index,Title,DOI,PDFLink,Downloaded
+1,0,A Highly Linear Operational Transconductance Amplifier (OTA) with High Common Mode Rejection Ratio,10.1109/ICSAP.2010.39,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5432634,1
+1,1,Slew-Rate Enhancement Circuit of CLASS AB Operational Transconductance Amplifier (OTA) by Auxiliary Circuit,10.1109/ICCS56666.2022.9936249,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9936249,1
+1,2,CMOS fully differential operational transconductance amplifier design for delta-sigma modulators,10.1109/SECON.2008.4494255,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4494255,1
+1,3,Applications of operational transconductance amplifier in power system analog emulation,10.1109/ISCAS.2005.1465832,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1465832,1
+1,4,A novel CMOS operational transconductance amplifier based on a mobility compensation technique,10.1109/TCSII.2004.839539,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1375056,1
+1,5,Application of the PSO technique to the Optimization of CMOS Operational Transconductance Amplifiers,10.1109/DTIS.2010.5487582,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5487582,1
+1,6,A CLASS AB Operational Transconductance Amplifier (OTA) with a Slew Rate Enhancement (SRE) Auxiliary Circuit,10.1109/ICCTIT60726.2023.10435939,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10435939,1
+1,7,The Digital-Based Operational Transconductance Amplifier: Evolution and Perspective,10.1109/SBCCI62366.2024.10703999,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10703999,1
+1,8,"Ultra low-voltage, rail-to-rail input/output stage Operational Transconductance Amplifier (OTA) with high linearity and its application in a Gm-C filter",10.1109/ISQED.2010.5450424,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5450424,1
+1,9,A Simple Macromodel Circuit for Operational Transconductance Amplifier with Low Frequency OTA-C Filter Application,10.1109/ICECTA48151.2019.8959781,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8959781,1
+1,10,An Ultra Low Power Low noise Operational Transconductance Amplifier for Biomedical Front-end Applications,10.1109/ICICT48043.2020.9112393,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9112393,1
+1,11,A Simple and Accurate Track-and-Hold Circuit using Operational Transconductance Amplifier,10.1109/MIXDES.2007.4286153,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4286153,1
+1,12,Analog field programmable CMOS Operational Transconductance Amplifier (OTA),10.1109/ICETACS.2013.6691417,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6691417,1
+1,13,Operational transconductance amplifier and state machine for photonics control system for tunable filter,10.1109/SBMicro.2017.8113027,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8113027,1
+1,14,A CMOS fully differential operational transconductance amplifier operating in sub-threshold region and its application,10.1109/ICSPS.2010.5555220,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5555220,1
+1,15,Operational Transconductance Amplifier (OTA) based Schmitt Trigger without passive elements,10.1109/ASPCON49795.2020.9276671,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9276671,1
+1,16,Performance analysis of operational transconductance amplifier at 180nm technology,10.1109/CIPECH.2016.7918781,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7918781,1
+1,17,A novel Operational Transconductance Amplifier with high Gm using improved differential current redistribution technique (DCRT),10.1109/ASICON.2013.6812053,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6812053,1
+1,18,Design and Performance Analysis of Operational Transconductance Amplifier Using FinFET,10.1109/CONFLUENCE.2018.8442585,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8442585,1
+1,19,A Low Power CMOS Operational Transconductance Amplifier with Improved CMRR,10.1109/ICM50269.2020.9331501,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9331501,1
+1,20,High performance CMOS low power/low voltage operational transconductance amplifier,10.1109/ICECCT.2015.7226203,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7226203,1
+1,21,A Simulative Study on Operational Transconductance Amplifiers in CMOS Technology,10.1109/PICC57976.2023.10142743,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10142743,1
+1,22,An Ultra-Low-Voltage Ultra-Low-Power CMOS Miller OTA With Rail-to-Rail Input/Output Swing,10.1109/TCSII.2007.902216,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4349224,1
+1,23,Analysis of the Effect of Transit Capacitances in Fully Differential Operational Transconductance Amplifiers,10.23919/MIXDES52406.2021.9497559,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9497559,1
+1,24,Design of High Gain Operational Transconductance Amplifiers in 180 nm CMOS technology,10.1109/DISCOVER47552.2019.9007949,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9007949,1
+1,25,A 10 b 50 MS/s Opamp-Sharing Pipeline A/D With Current-Reuse OTAs,10.1109/TVLSI.2010.2052376,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5518347,1
+1,26,Low Voltage High Performance Fully Balanced Operational Transconductance Amplifier with Improved Slew Rate,10.1109/SPIN48934.2020.9070882,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9070882,1
+1,27,Design and analysis of a mixed-mode universal filter using dual-output operational transconductance amplifiers (DO-OTAs),10.1109/ICCCE.2008.4580739,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4580739,1
+1,28,"Low-voltage, low-power and high gain CMOS operational transconductance amplifier",10.1109/ISCAS.2002.1009843,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1009843,1
+1,29,Design of Operational Amplifier with Low Power Consumption in 0.35 μm Technology,10.1109/MIXDES.2007.4286164,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4286164,1
+1,30,A novel design of low power and wide bandwidth operational transconductance amplifier using 0.35μm technology,10.1109/CoDIT.2013.6689581,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6689581,1
+1,31,A new architecture for rail-to-rail input constant-g/sub m/ CMOS operational transconductance amplifiers,10.1109/LPE.2003.1231913,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1231913,1
+1,32,A 1-V high-gain two-stage self-cascode operational transconductance amplifier,10.1109/IPACT.2017.8245037,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8245037,1
+1,33,Linear input range extension for low-voltage operational transconductance amplifiers in Gm-C filters,10.1109/ISCAS.2017.8050495,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8050495,1
+1,34,Analysis of operational transconductance amplifier for application in GHz frequency range,10.1109/LECHPD.2004.1549673,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1549673,1
+1,35,Low-voltage CMOS wideband operational transconductance amplifier with regulated cascode circuit,10.1109/ICECS.2002.1045330,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1045330,1
+1,36,Adaptive Neuron Activation Function with FGMOS Based Operational Transconductance Amplifier,10.1109/ISVLSI.2008.12,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4556820,1
+1,37,An operational transconductance amplifier in 0.18/spl mu/m SOI,10.1109/MWSCAS.2005.1594025,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1594025,1
+1,38,Using operational transconductance amplifiers for Chua's circuit,10.1109/TENCON.2002.1182582,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1182582,1
+1,39,A 0.5 V fully differential gate-input operational transconductance amplifier with intrinsic common-mode rejection,10.1109/ISCAS.2006.1693215,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1693215,1
+1,40,A 3.3 V linear fully balanced CMOS operational transconductance amplifier for high-frequency applications,10.1109/OCCSC.2002.1029039,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1029039,1
+1,41,Floating gate MOSFET based Operational Transconductance Amplifier and study of mismatch,10.1109/ICIEA.2009.5138183,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5138183,1
+1,42,A low voltage operational transconductance amplifier using common mode feedforward for high frequency switched capacitor circuits,10.1109/ISCAS.2001.921938,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=921938,1
+1,43,The new multifin approach for mitigation of leakage in an Operational Transconductance Amplifier,10.1109/ICCN.2015.63,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7507475,1
+1,44,Design of high performance and low power dissipation operational transconductance amplifier by using MATLAB optimization,10.1109/STA.2017.8314892,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8314892,1
+1,45,A ready-to-use design procedure for operational transconductance amplifiers that minimizes power consumption,10.1109/ICECS.2001.957630,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=957630,1
+1,46,Modified nodal analysis formulation of operational transconductance amplifier,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5733884,1
+1,47,High bandwidth Second Generation Current Conveyor based Operational Transconductance Amplifier,10.1109/MWSCAS.2011.6026582,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6026582,1
+1,48,An Operational Transconductance Amplifiers Based Sinusoidal Oscillator Using CNTFETs,10.23919/AE.2018.8501428,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8501428,1
+1,49,Design and analysis of high gain CMOS transconductance amplifier for low frequency application,10.1109/ICCS1.2017.8326006,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8326006,1
+1,50,Design of a Low-Power High-Gain Bulk-Driven Operational Transconductance Amplifier in 90 nm CMOS Process,10.1109/ICCCNT56998.2023.10306387,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10306387,1
+1,51,New ASK/FSK/PSK/QAM wave generator using multiple-output operational transconductance amplifiers,10.1109/81.917985,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=917985,1
+1,52,A new compensation technique for two-stage CMOS operational transconductance amplifiers,10.1109/ICECS.2003.1301841,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1301841,1
+1,53,The Research of Operational Transconductance Amplifier,10.1109/ICCASE.2011.5997648,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5997648,1
+1,54,Voltage controlled tunable all pass filter using LM13700 Operational Transconductance Amplifier,10.1109/ISSSE.2010.5607018,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5607018,1
+1,55,New class-AB operational transconductance amplifier for high-speed switched-capacitor circuits,10.1109/ISCIT.2004.1412902,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1412902,1
+1,56,Design and Simulation of Enhanced Bootstrapping technique based low power operational transconductance amplifier,10.1109/AISC56616.2023.10084993,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10084993,1
+1,57,Design of low-voltage CMOS two-stage operational transconductance amplifier,10.1109/ICEECCOT.2017.8284677,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8284677,1
+1,58,"Low-power, enhanced-gain adaptive-biasing-based Operational Transconductance Amplifiers",10.1109/NORCHP.2009.5397853,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5397853,1
+1,59,Design and implementation of a rail-to-rail operational amplifier for photoelectric detection,10.1109/AIEA62095.2024.10692409,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10692409,1
+1,60,A Three-Stage Operational Transconductance Amplifier for Delta Sigma Modulator,10.1109/DISCOVER.2018.8674124,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8674124,1
+1,61,Programmable Threshold Comparator Using High Frequency Operational Transconductance Amplifier (OTA) Based Memristor,10.1109/CESYS.2018.8723919,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8723919,1
+1,62,Improvement in Noise Performance and Transconductance Using Positive Feedback in Bulk Driven Operational Amplifier,10.1109/ICCUBEA.2015.193,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7155992,1
+1,63,A 0.5V Bulk-Input Operational Transconductance Amplifier with Improved Common-Mode Feedback,10.1109/ISCAS.2007.378724,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4253115,1
+1,64,Design of a Three Stage Operational Transconductance Amplifier in 90nm CMOS,10.1109/MACS.2018.8628403,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8628403,1
+1,65,Low-power Complementary Cascode Partial Positive Feedback Operational Transconductance Amplifier,10.1109/ICECAA58104.2023.10212149,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10212149,1
+1,66,0.8-µW CMOS bulk-driven linear operational transconductance amplifier in 0.35-µm technology,10.1109/APCCAS.2010.5774958,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5774958,1
+1,67,A 92dB 560MHz 1.5V 0.35 /spl mu/m CMOS operational transconductance amplifier,10.1109/ECCTD.2005.1523126,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1523126,1
+1,68,A 40-MHz Double Differential-Pair CMOS OTA With  $-{\hbox{60-dB}}$ IM3,10.1109/TCSI.2007.910747,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4378245,1
+1,69,CMOS OTA compensating transconductance linearity with PMOS path,10.1109/SOCDC.2008.4815564,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4815564,1
+1,70,Trade-off between channel length and mechanical stress in the Operational Transconductance Amplifier designed with SOI FinFET,10.1109/SBMicro60499.2023.10302575,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10302575,1
+1,71,Active tunable nanoscale CMOS BALUN based on operational transconductance amplifier,10.1109/ICIEA.2012.6361006,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6361006,1
+1,72,0.5-V operational transconductance amplifier for CMOS bandgap reference application,10.1109/ICSICT.2006.306400,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4098517,1
+1,73,Low-voltage low-power fast-settling CMOS operational transconductance amplifiers for switched-capacitor applications,10.1109/LPE.2003.1231910,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1231910,1
+1,74,Design of Micropower Operational Transconductance Amplifiers for High Total Ionizing Dose Effects,10.1109/MOCAST.2019.8742031,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8742031,1
+1,75,Information capacity and power efficiency in operational transconductance amplifiers,10.1109/ISCAS.2004.1328164,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1328164,1
+1,76,An analytical model for the slewing behavior of CMOS two-stage operational transconductance amplifiers,10.1109/ISCAS.2004.1328254,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1328254,1
+1,77,Modified-Nauta Operational Transconductance Amplifier for 400 MHz High-Q VHF Filter,10.1109/SMIC.2009.4770517,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4770517,1
+1,78,89nW Class AB Bulk Driven Quasi Floating Gate Two Stage Operational Transconductance Amplifier,10.1109/ICSSIT55814.2023.10061065,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10061065,1
+1,79,A memristor emulator circuit based on operational transconductance amplifiers,10.1109/ECTICon.2015.7207019,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7207019,1
+1,80,A 1-V 50-MHz Pseudodifferential OTA With Compensation of the Mobility Reduction,10.1109/TCSII.2007.907559,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4378292,1
+1,81,A Low-Voltage High Linear Body-Driven Operational Transconductance Amplifier and Its Applications,10.1109/CCECE.2007.139,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4232798,1
+1,82,Design of operational transconductance amplifiers with improved gain by using graded-channel SOI nMOSFETs,10.1109/SBCCI.2003.1232802,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1232802,1
+1,83,Uniaxially strained silicon influence on Two-stage Operational Transconductance Amplifiers designed with SOI FinFET's,10.1109/SBMICRO55822.2022.9881005,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9881005,1
+1,84,A Tunable Pseudo-Differential OTA With  $-78~{\hbox {dB}}$ THD Consuming 1.25 mW,10.1109/TCSII.2007.916757,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4476200,1
+1,85,Design and Simulation of low power composite flipped follower based bulk driven Operational Transconductance Amplifier,10.1109/AISC56616.2023.10085593,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10085593,1
+1,86,Optimizing CMOS operational transconductance amplifiers through heuristic programming,10.1109/DTIS.2008.4540234,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4540234,1
+1,87,Improving Operational transconductance Amplifier (OTA) gain-bandwidth tradeoff using gate-underlap MOSFETs,10.1109/SOCCON.2009.5398084,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5398084,1
+1,88,A Low Voltage Wideband CMOS Operational Transconductance Amplifier for VHF Applications,10.1109/ICESC.2014.95,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6745352,1
+1,89,A floating memristor emulator circuit using operational transconductance amplifiers,10.1109/EDSSC.2015.7285207,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7285207,1
+1,90,A Self-Biased Operational Transconductance Amplifier in 0.18 micron 3D SOI-CMOS,10.1109/ISCAS.2007.378240,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4252590,1
+1,91,Full-wave rectifiers based on operational transconductance amplifiers,10.1109/ISCIT.2005.1566885,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1566885,1
+1,92,Three-Stage CMOS OTA for Large Capacitive Loads With Efficient Frequency Compensation Scheme,10.1109/TCSII.2006.882231,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1715574,1
+1,93,Fast-settling CMOS two-stage operational transconductance amplifiers and their systematic design,10.1109/ISCAS.2002.1011484,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1011484,1
+1,94,Design of a linearized operational transconductance amplifier using quasi-floating bulk resistor,10.1109/EDKCON56221.2022.10032960,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10032960,1
+1,95,Design Procedure for a Folded-Cascode and Class AB Two-Stage CMOS Operational Amplifier,10.1109/ICIASE45644.2019.9074153,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9074153,1
+1,96,Design of Ultra-Low Voltage Operational Amplifier Using 0.12 μm Technology,10.1109/ICIEA58696.2023.10241473,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10241473,1
+1,97,An ultra-low-voltage ultra-low-power OTA with improved gain-bandwidth product,10.1109/ICM.2008.5393821,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5393821,1
+1,98,Electronically tunable gain instrumentation amplifier using OTAs,10.1109/ICCAS.2008.4694395,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4694395,1
+1,99,Design of KHN biquad using operational transconductance amplifier,10.1109/MWSCAS.2002.1187150,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1187150,1

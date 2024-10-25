@@ -1,0 +1,101 @@
+﻿Page,Index,Title,DOI,PDFLink,Downloaded
+1,0,Parallel Computations Based on Analogue Principles,10.1109/UKSIM.2009.15,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4809747,1
+1,1,Addition related arithmetic operations via controlled transport of charge,10.1109/TC.2005.40,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1388190,1
+1,2,Fast CMOS Analog Multiplier and Divider With Continuous-Time Inverter-Based Flash Digitizer,10.1109/TCSII.2021.3134415,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9646238,1
+1,3,Design and Development of Reliable Low Power High Speed 4-Bit Array Multiplier using High Performance 1-Bit Full Adders,10.1109/5NANO53044.2022.9828873,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9828873,1
+1,4,Analysis of Memristor Based Analog Circuits for Improved Efficiency,10.1109/ICCCI56745.2023.10128244,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10128244,1
+1,5,A 4-Bits CSA Adder Using the Arithmetic A2 Redundant Binary Representation for Mixed Neural Networks with On-Chip Learning,10.1109/CISIM.2008.18,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4557841,1
+1,6,A Second-Order  $\Delta\Sigma$  Time-to-Digital Converter Using Highly Digital Time-Domain Arithmetic Circuits,10.1109/TCSII.2019.2925860,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8752098,1
+1,7,A robust offset cancellation scheme for analog multipliers [utilises digital integrator],10.1109/ICECS.2004.1399684,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1399684,1
+1,8,Towards a Ternary Sigma-Delta Modulated Processor: Adder and Integrator,10.1109/CIT.2008.Workshops.16,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4568556,1
+1,9,A radio-frequency real-time spectrum sensor based on an analog signal processing magnitude calculator,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8088387,1
+1,10,Digital realization of analogue computing elements using bit streams,10.1109/IWSOC.2003.1213009,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1213009,1
+1,11,16-bit Binary Multiplication Using High Radix Analog Digits,10.1109/ACSSC.2006.354762,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4176572,1
+1,12,An Optical Parallel Multiplier Using Nanophotonic Analog Adders and Optoelectronic Analog-to-Digital Converters,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8427307,1
+1,13,Mixed-signal CVNS adder for two-operand binary addition,10.1109/EIT.2009.5189616,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5189616,1
+1,14,A CMOS third order ΔΣ modulator with inverter-based integrators,10.1109/SOCC.2017.8226025,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8226025,1
+1,15,Analysis of CMOS Full Adder Circuits for Multiplier Logic Architectures,10.1109/ICDCOT61034.2024.10515488,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10515488,1
+1,16,Design of Combinational Arithmetic Circuits using Quantum Dot Cellular Automata,10.1109/ICOEI51242.2021.9453069,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9453069,1
+1,17,CMOS Gilbert Mutiplier for Analog Signal Processing and its FPAA Based Implementation,10.1109/ICACCT.2018.8529653,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8529653,1
+1,18,A simple 4 quadrant NMOS analog multiplier with input range equal to ±VDD and very low THD,10.1109/EIT.2008.4554281,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4554281,1
+1,19,Design of Low Power 4-Bit Baugh-Wooley Multiplier using 1-Bit Mirror and Approximate Full Adders,10.1109/ASIANCON55314.2022.9908919,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9908919,1
+1,20,A New Approach to Optimize the Defuzzification Unit of Fuzzy Systems,10.1109/IranianCEE.2019.8786479,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8786479,1
+1,21,VLSI improvements in a binary multiplier based on analog digits,10.1109/ACSSC.1999.831901,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=831901,1
+1,22,A low power decomposed hierarchical multiplier architecture embedding multiplexer based full adders,10.1109/MWSCAS.2005.1594394,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1594394,1
+1,23,Design for 3-D Stacked Neural Network Circuit with Cyclic Analog Computing,10.1109/3DIC52383.2021.9687608,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9687608,1
+1,24,A novel CVNS adder with memristive analog memory,10.1109/ECCTD.2017.8093297,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8093297,1
+1,25,Application of Hybrid Mathematical Analog-digital Devices in Intelligent Microelectronic and Microprocessor Systems,10.1109/PIERE51041.2020.9314653,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9314653,1
+1,26,Analysis of single-module and cascade molecular analog circuits for approximate computing based on DNA Strand Displacement,10.1109/SBCCI50935.2020.9189908,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9189908,1
+1,27,Performing arithmetic functions with the Chinese abacus approach,10.1109/82.809537,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=809537,1
+1,28,A time-mode translinear principle for implementing analog multiplication,10.1109/ISCAS.2014.6865068,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6865068,1
+1,29,On CIC decimator variants - from shifting zeros to the sparse FIR-CIC structure,10.1109/ISSPA.2007.4555583,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4555583,1
+1,30,"A new digital multiplier/divider architecture, via hybrid analog-digital processing",,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4600890,1
+1,31,A neural network architecture using high resolution multiplying digital to analog converters,10.1109/MWSCAS.2017.8053207,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8053207,1
+1,32,Design and implementation of double base integer encoder in the flash ADC,10.1109/ECTICON.2009.5137056,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5137056,1
+1,33,VLSI implementation of current mode analog multiplier,10.1109/ICCSP.2015.7322541,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7322541,1
+1,34,Method of analog-to-digital conversion of current signals conveyed by sensor based on multi-valued adder,10.1109/URALCON.2017.8120690,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8120690,1
+1,35,CMOS current-mode analog multiplier,10.1109/ICCSP.2016.7754260,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7754260,1
+1,36,A low voltage CMOS analog multiplier with high linearity,10.1109/ECCTD.2009.5274936,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5274936,1
+1,37,Direct residue-to-analog conversion scheme based on Chinese Remainder Theorem,10.1109/ICECS.2010.5724605,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5724605,1
+1,38,Performance analysis of FIR filter using booth multiplier,10.1109/ICCTET.2014.6966328,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6966328,1
+1,39,Bandwidth extension of analog multiplier using dynamic threshold MOS transistor,10.1109/ICRITO.2014.7014682,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7014682,1
+1,40,Performance Limits of Generalized Sampling Based 2-Channel Analog-to-Digital Converter,10.1109/TCSII.2021.3053859,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9333677,1
+1,41,Modular Adder Designs Based On Thermometer Coding And One-Hot Coding,10.1109/ACCESS51619.2021.9563300,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9563300,1
+1,42,Computation in communication: Spike event coding for programmable analog arrays,10.1109/ISCAS.2010.5537425,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5537425,1
+1,43,Sawtooth Voltage Source Based on Field Programmable Analog Array,10.1109/USBEREIT.2019.8736654,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8736654,1
+1,44,Laboratory implementation of some analog and digital modulation schemes using single circuit,10.1109/MITE.2013.6756376,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6756376,1
+1,45,A New DAC Mismatch Shaping Technique for Sigma–Delta Modulators,10.1109/TCSII.2010.2083172,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5624575,1
+1,46,"A new high speed, low power adder; using hybrid analog-digital circuits",10.1109/ECCTD.2009.5275072,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5275072,1
+1,47,Comparative Study on 4-Bit Adders and Multipliers with Hardware Implementation,10.1109/ICDCS59278.2024.10560986,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10560986,1
+1,48,A Reconfigurable and Compact Spin-Based Analog Block for Generalizable nth Power and Root Computation,10.1109/ISVLSI51109.2021.00062,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9516804,1
+1,49,Implementation issues of voltage multiplier and divider using log and antilog amplifiers,10.1109/RAECS.2014.6799568,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6799568,1
+1,50,Analogue CMOS techniques for VLSI neural networks: process invariant circuits and devices,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=181556,1
+1,51,A review of large parallel counter designs,10.1109/ISVLSI.2004.1339513,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1339513,1
+1,52,A Sub-μW Power 10 bit ΔΣ ADC for Biomedical Applications,10.1109/MWSCAS48704.2020.9184702,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9184702,1
+1,53,Full adder-based arithmetic units for finite integer rings,10.1109/82.251845,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=251845,1
+1,54,Analog and Digital Simulations Structures withTunable Order of the Analog Fractional Order Differentiator,10.1109/STA.2019.8717293,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8717293,1
+1,55,Power performance analysis of compensated Cascaded Integrator Comb (CIC) filter in optimum computing,10.1109/ICPEN.2012.6492323,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6492323,1
+1,56,Circuit for multiplication of two sigma-delta modulated pulse streams,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5665424,1
+1,57,A B-s complement continuous valued digit adder,10.1109/ICECS.2002.1046187,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1046187,1
+1,58,Efficient Design of Multiplier using EGDI Technique,10.1109/AESPC52704.2021.9708531,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9708531,1
+1,59,Negative impedance inverter and all-pass filter realizations using adder and subtractor blocks,10.1109/MWSCAS.2014.6908478,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6908478,1
+1,60,A low power 16-bit Booth Leapfrog array multiplier using Dynamic Adders,10.1109/ISCAS.2004.1329302,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1329302,1
+1,61,Ultra low noise signed digit arithmetic using cellular neural networks,10.1109/IWSOC.2004.1319866,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1319866,1
+1,62,A Ternary Analog-to-Digital Converter System,10.1109/ISMVL.2007.5,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4215959,1
+1,63,Collaborative Learning for Teaching the Topic “Design of Differentiators and Integrators in MATLAB” in Digital Signal Processing Course,10.1109/ET55967.2022.9920215,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9920215,1
+1,64,Analogue IC design using switched-currents,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=190430,1
+1,65,Power Optimization using Partial Adiabatic Logic for Parallel Adder and Subtractor,10.1109/ICEEICT56924.2023.10157614,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10157614,1
+1,66,A low voltage low power CMOS analog multiplier,10.1109/NORCHP.2011.6126712,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6126712,1
+1,67,A flipped voltage follower based analog multiplier in 90nm CMOS process,10.1109/ICACEA.2015.7164767,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7164767,1
+1,68,Design of Precise Analog Frequency Multiplies of Harmonic Signals in Even Number of Times,10.1109/MEMSTECH.2007.4283424,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4283424,1
+1,69,A developed adding and latency reducing method for high speed pipelined adders,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5955718,1
+1,70,A comparison of three multipliers based on the V/sub gs//sup 2/ technique for low-voltage applications,10.1109/TCSI.2003.813970,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1211094,1
+1,71,Fractional-Order Differentiators and Integrators with Reduced Circuit Complexity,10.1109/ISCAS.2018.8351452,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8351452,1
+1,72,A Repetitive Analog Pulse Time Computing Technique,10.1109/TA.1964.4319591,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4319591,1
+1,73,Improved Accuracy Current-Mode Multiplier Circuits With Applications in Analog Signal Processing,10.1109/TVLSI.2013.2239670,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6423962,1
+1,74,A mixed-signal adder based on the Continuous Valued Number System,10.1109/MWSCAS.2008.4616807,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4616807,1
+1,75,An integrated time register and arithmetic circuit with combined operation for time-domain signal processing,10.1109/ISCAS.2015.7169012,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7169012,1
+1,76,Memristor-based arithmetic,10.1109/ACSSC.2010.5757715,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5757715,1
+1,77,A novel implementation of high speed modified brent kung carry select adder,10.1109/ISCO.2016.7727130,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7727130,1
+1,78,FDSOI-Based Analog Computing for Ultra-Efficient Hamming Distance Similarity Calculation,10.1109/TCSI.2023.3267837,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10107666,1
+1,79,Design of an analog correlator for 22-29GHz UWB vehicular radar system using improved high gain multiplier architecture,10.1109/MWSCAS.2010.5548782,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5548782,1
+1,80,A Memristive Multiplier Using Semi-Serial IMPLY-Based Adder,10.1109/TCSI.2020.2965935,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8967013,1
+1,81,Reconstruction of Nonuniformly Sampled Bandlimited Signals Using a Differentiator–Multiplier Cascade,10.1109/TCSI.2008.918267,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4447849,1
+1,82,Truncation Scheme for Recursive Multipliers,10.1109/CAMAN.2011.5778785,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5778785,1
+1,83,The CMOS analog multiplier free from mobility reduction,10.1109/ISCIT.2004.1412442,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1412442,1
+1,84,DBNS addition using cellular neural networks,10.1109/ISCAS.2005.1465486,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1465486,1
+1,85,A mixed signal multiplier using A2 binary representation dedicated to neural networks applications,10.1109/DTIS.2011.5941407,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5941407,1
+1,86,An RRAM-Based Digital Computing-in-Memory Macro With Dynamic Voltage Sense Amplifier and Sparse-Aware Approximate Adder Tree,10.1109/TCSII.2022.3209872,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9903897,1
+1,87,A novel hybrid method for analog circuit fault classification,10.1109/DDCLS.2017.8068098,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8068098,1
+1,88,A new very high speed CMOS 4−2 compressor for fast digital arithmetic circuits,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5551324,1
+1,89,"On the design of low-voltage, low-power CMOS analog multipliers for RF applications",10.1109/92.994995,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=994995,1
+1,90,Addition transducer for double base number system,10.1109/ISCIT.2006.339926,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4141365,1
+1,91,A Weak-Inversion Cmos Analog Multiplier/Divider Circuit,10.1109/SIITME.2018.8599269,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8599269,1
+1,92,Low-Power Mixed-Signal CVNS-Based 64-Bit Adder for Media Signal Processing,10.1109/TVLSI.2008.2000731,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4595673,1
+1,93,A multi-operand adder circuit design using novel multi-valued current mode design technique,10.1109/ELECO.2009.5355250,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5355250,1
+1,94,"High Performance, Low Power Architecture of 5-stage FIR Filter using Modified Montgomery Multiplier",10.23919/AE49394.2020.9232853,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9232853,1
+1,95,The differential difference operational floating amplifier: a new block for analog signal processing in MOS technology,10.1109/82.659468,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=659468,1
+1,96,IIR filters using stochastic arithmetic,10.7873/DATE.2014.086,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6800287,1
+1,97,Complexity Study of the Continuous Valued Number System Adders,10.1109/ISMVL.2012.36,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6214794,1
+1,98,"Design, Implementation and Comparative Analysis of Kogge Stone Adder Using CMOS and GDI Design: A VLSI Based Approach",10.1109/CICN.2016.117,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8082709,1
+1,99,Design of a log-domain differentiator and integrator based universal analog biquadratic filter,10.1109/MWSCAS.2004.1353914,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1353914,1

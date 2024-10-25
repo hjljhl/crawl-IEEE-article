@@ -1,0 +1,101 @@
+﻿Page,Index,Title,DOI,PDFLink,Downloaded
+1,0,A compact low power ASK demodulator for passive UHF RFID tags,10.1109/EDSSC.2014.7061180,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7061180,1
+1,1,A 272-GHz CMOS Analog BPSK/QPSK Demodulator for IEEE 802.15.3d,10.1109/ESSCIRC53450.2021.9567798,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9567798,1
+1,2,An Integrated IQ Demodulator with Integrated Low-Power Multi-Gigabit BPSK / ASK Analog Signal Processor in 90nm CMOS,10.1109/EMICC.2008.4772248,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4772248,1
+1,3,"Joint ADC-less Analog Demodulator and Decoder for Extended Binary (8, 4, 4) Hamming Channel Code",10.1109/ICCKE57176.2022.9960117,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9960117,1
+1,4,An HF Passive RFID Tag IC With Low Modulation Index ASK Demodulator,10.1109/TIE.2018.2840514,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8370770,1
+1,5,Asynchronous sigma-delta modulator and fast demodulator,10.1109/RADIOELEK.2015.7129003,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7129003,1
+1,6,A GFSK demodulator for low-IF Bluetooth receiver,10.1109/JSSC.2003.814424,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1214733,1
+1,7,A 170  $\mu\text{A}$ All-Digital GFSK Demodulator With Rejection of Low SNR Packets for Bluetooth-LE,10.1109/LMWC.2016.2562639,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7473940,1
+1,8,Compressed sensing for frequency hopping communication signals via analog to information converter,10.1109/ICNIDC.2016.7974591,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7974591,1
+1,9,An analog modulator/demodulator using a programmable arbitrary waveform generator,10.1109/ISCAS.2005.1466033,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1466033,1
+1,10,A SiGe 7 Gbit/s analog BPSK/QPSK demodulator,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5587134,1
+1,11,A Modulator/Demodulator CMOS IC for Chaotic Encryption of Audio,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5469301,1
+1,12,An Analog Demodulation Scheme for Cross-QAM Constellations,10.1109/IST50524.2020.9345859,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9345859,1
+1,13,A 34-pJ/bit Area-Efficient ASK Demodulator Based on Switching-Mode Signal Shaping,10.1109/TCSII.2016.2599262,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7539537,1
+1,14,An ultra low power GFSK demodulator for wireless body area network,10.1109/ESSCIRC.2008.4681885,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4681885,1
+1,15,An analog synchronous QPSK demodulator for ultra-high rate wireless communications,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5760738,1
+1,16,A Novel Error Separation Technique for Quadrature Modulators and Demodulators,10.1109/RWS.2007.351893,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4160776,1
+1,17,Experimental performance evaluation of error estimation and compensation technique for quadrature modulators and demodulators,10.1109/RWS.2008.4463449,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4463449,1
+1,18,Analog-to-Information Converter Based on Off-the-Shelf Components and SoC-FPGA,10.1109/LASCAS.2019.8667546,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8667546,1
+1,19,A Novel BPSK Demodulator for Biological Implants,10.1109/TCSI.2008.918174,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4447933,1
+1,20,Reconstruction of Frequency Hopping Communication Signals via Analog to Information Converter,10.1109/ICISCE.2016.294,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7726391,1
+1,21,Digital quadrature demodulator with four phases mixing for digital radio receivers,10.1109/TCSII.2003.820244,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1255686,1
+1,22,Analog Quadrature Modulator and Coupling Circuit for Narrowband Power Line Communication,10.23919/MIXDES55591.2022.9837975,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9837975,1
+1,23,Timer-based Demodulator for AM Square Signals coming from Sensor Circuits,10.1109/I2MTC.2019.8826994,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8826994,1
+1,24,A VCO-free low-power fully digital BPSK demodulator for implantable biomedical microsystems,10.1109/ICECS.2017.8292052,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8292052,1
+1,25,A system-on-package analog synchronous QPSK demodulator for ultra-high rate 60 GHz wireless communications,10.1109/MWSYM.2011.5972692,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5972692,1
+1,26,An Analysis of an ASK Demodulator With Dual Self-Biased Separated Voltages for Implantable Applications,10.1109/TCSII.2024.3357212,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10411988,1
+1,27,A digital demodulator based on the recursive Gauss-Newton method for electrical tomography,10.1109/IST.2014.6958446,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6958446,1
+1,28,A high-data-rate low-power BPSK demodulator and clock recovery circuit for implantable biomedical devices,10.1109/NER.2009.5109319,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5109319,1
+1,29,Rail-to-Rail Timer-Based Demodulator for AM Sensor Signals,10.1109/TIM.2018.2879127,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8536459,1
+1,30,Dynamic Characteristics of the BPSK-GLSS Demodulator,10.1109/IEEECONF51389.2021.9416110,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9416110,1
+1,31,Efficient Digital Implementation of Quadrature Demodulator for Radar Receivers,10.1109/CONECCT52877.2021.9622737,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9622737,1
+1,32,Self-Injection-Locked AIA Radar Sensor Using PLL Demodulator for N oncontact Vital Sign Detection,10.1109/MWSYM.2018.8439357,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8439357,1
+1,33,A DLL-based FSK demodulator for 5.8GHz DSRC/ETC RF receiver,10.1109/ISOCC.2012.6407053,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6407053,1
+1,34,Design Procedure of RF Quadrature Modulators and Demodulators with Controllable Unbalance LO Path,10.1109/ElConRus54750.2022.9755493,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9755493,1
+1,35,Phase Demodulator for the Measurement of Extrinsic Fabry-Perot Interferometric Sensors With Arbitrary Initial Cavity Length,10.1109/JSEN.2019.2961370,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8938767,1
+1,36,Algorithm-Aware Digital Design for Analog-on-Top Chips: An ASK Demodulator Comparative Study,10.1109/SENSORS56945.2023.10325037,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10325037,1
+1,37,Digital Recursive Demodulator Based on Kalman Filter,10.1109/TIM.2017.2735660,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8013758,1
+1,38,Polarimetric Demodulator Based on a Seven-Port Network,10.1109/ARGENCON.2018.8646183,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8646183,1
+1,39,Efficient realization of random demodulator-based analog to information converters,10.1109/BioCAS.2011.6107745,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6107745,1
+1,40,A 0.93 pJ/bit Controlled Capacitor-Charge 2-bit Pulsewidth Demodulator in 45-nm RFSOI CMOS,10.1109/NEWCAS44328.2019.8961315,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8961315,1
+1,41,Investigation of the QPSK-GLSS Demodulator using Phase Space Method,10.1109/IEEECONF51389.2021.9416093,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9416093,1
+1,42,A 0.18-$\mu\hbox{m}$  CMOS GFSK Analog Front End Using a Bessel-Based Quadrature Discriminator With On-Chip Automatic Tuning,10.1109/TCSI.2009.2015728,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4785488,1
+1,43,Polyphase Sliding Goertzel Demodulator for Continuous Phase Frequency Modulated Signals,10.1109/TASC.2009.2018768,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5067022,1
+1,44,A digital intermediate frequency demodulator for /spl pi//4 DQPSK based on hard limiter,10.1109/PIMRC.2005.1651911,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1651911,1
+1,45,An RF Based Analog Linear Demodulator,10.1109/LMWC.2011.2154318,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5871697,1
+1,46,An analog-based GFSK demodulator for 60GHz direct-conversion receiver applications,10.1109/APMC.2013.6695000,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6695000,1
+1,47,Design and Comparison of Two Lock-In Amplifiers Using Demodulators AD630 and ADA2200,10.1109/I2MTC53148.2023.10175980,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10175980,1
+1,48,Ground based high data rate DVB-S2 demodulator for high data rate AISR transport,10.1109/MILCOM.2010.5680171,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5680171,1
+1,49,Selecting Requirements and Characteristics for High-Speed Digital Demodulators and Information Receiving Systems,10.1109/SIBCON.2019.8729635,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8729635,1
+1,50,Photonic Random Demodulator With Improved Performance by Compressing the PRBS Amplitude,10.1109/LPT.2024.3354039,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10399836,1
+1,51,Analog CMOS Design for Optical Coherence Tomography Signal Detection and Processing,10.1109/TBME.2007.905402,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4360116,1
+1,52,An Ultralow Power Multirate FSK Demodulator With Digital-Assisted Calibrated Delay-Line Based Phase Shifter for High-Speed Biomedical Zero-IF Receivers,10.1109/TVLSI.2013.2297834,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6714523,1
+1,53,An Implementation of Pre-Quantized Random Demodulator Based on Amplitude-to-Pulse Converter,10.1109/ISVLSI49217.2020.00045,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9154945,1
+1,54,A quadricorrelator demodulator for a Bluetooth low-IF receiver,10.1109/RFIC.2004.1320618,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1320618,1
+1,55,Direct RF sampling employing time-skewed analog to digital converters and complex finite impulse response filters,10.1109/RADAR.2006.1631843,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1631843,1
+1,56,A novel precolouring-random demodulator architecture for compressive spectrum estimation,10.1049/cp.2013.2040,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6740489,1
+1,57,A system-on-package analog synchronous QPSK demodulator for ultra-high rate 60 GHz wireless communications,10.1109/MWSYM.2011.5973210,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5973210,1
+1,58,A High-Performance ASK Demodulator for Wireless Recovery System,10.1109/WICOM.2007.307,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4340082,1
+1,59,Low-Power Discrete Fourier Transform for OFDM: A Programmable Analog Approach,10.1109/TCSI.2010.2071950,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5648392,1
+1,60,All-passive memristor-based 8-QAM and BFSK demodulators using linear dopant drift model,10.1109/ICEDSA.2016.7818542,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7818542,1
+1,61,Photonic analog-to-digital conversion based on photonic time stretch and compressive sensing with optical random mixing,10.1109/ICOCN.2013.6617228,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6617228,1
+1,62,A Development of LVDT Demodulator Circuit Based on FPAA Chip,10.1109/ECTI-CON58255.2023.10153207,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10153207,1
+1,63,Automated Calibration Station for Quadrature Demodulators Used in Digital Phased Arrays,10.1109/MAP.2010.5687526,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5687526,1
+1,64,A 75–110 GHz Digitally-Probed Artificial Dielectric phase demodulator in 65nm CMOS,10.1109/MWSYM.2011.5972572,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5972572,1
+1,65,A high dynamic range ASK demodulator for passive UHF RFID with automatic over-voltage protection and detection threshold adjustment,10.1109/CICC.2009.5280804,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5280804,1
+1,66,An up to 36Gbps analog baseband equalizer and demodulator for mm-wave wireless communication in 28nm CMOS,10.1109/CICC.2017.7993666,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7993666,1
+1,67,A Digital Switching Demodulator for Electrical Capacitance Tomography,10.1109/TIM.2012.2236731,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6428690,1
+1,68,High-Frequency Memristor-Based BFSK and 8-QAM Demodulators,10.1109/MWSCAS48704.2020.9184693,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9184693,1
+1,69,Using a Digital Timer to Demodulate AM Triangular Signals for Sensor Applications,10.1109/I2MTC43012.2020.9128788,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9128788,1
+1,70,0.18-/spl mu/m CMOS Bluetooth analog receiver with -88-dBm sensitivity,10.1109/JSSC.2003.821769,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1263664,1
+1,71,An Energy Efficient Demodulation Scheme for Dual Ring Star QAM Constellations,10.1109/WASOWC49739.2020.9410122,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9410122,1
+1,72,A pipelined CORDIC architecture and its implementation in all-digital FM modulator-demodulator,10.1109/ACQED.2015.7274004,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7274004,1
+1,73,Synchronous Demodulator for Autonomous Sensors,10.1109/TIM.2007.899919,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4277011,1
+1,74,A 228µW injection locked ring oscillator based BPSK demodulator in 65nm CMOS,10.1109/RFIC.2010.5477316,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5477316,1
+1,75,A 32-Gb/s CMOS Receiver With Analog Carrier Recovery and Synchronous QPSK Demodulation,10.1109/LMWC.2021.3066470,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9380347,1
+1,76,A 17pJ/bit broadband mixed-signal demodulator in 90nm CMOS,10.1109/MWSYM.2010.5518117,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5518117,1
+1,77,Ultra-low power analog front-end for passive UHF RFID tags,10.1049/cp.2012.2369,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6755748,1
+1,78,A mixed-mode IF GFSK demodulator for Bluetooth,10.1109/ISCAS.2002.1010259,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1010259,1
+1,79,Implementation of a software defined FM mixed demodulator on FPGA,10.1109/TELFOR.2015.7377477,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7377477,1
+1,80,A CMOS MF energy harvesting and data demodulator receiver for wide area low duty cycle applications with 230 mV start-up voltage,10.1109/NORCHIP.2016.7792887,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7792887,1
+1,81,A 60µW 10Mb/s fully digital FSK demodulator for power-jitter efficient medical BAN,10.1109/APCCAS.2010.5775061,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5775061,1
+1,82,The Delta-Sigma Demodulator Module of the XMC4500 Applied to Resolver,10.23919/ICEMS.2018.8549237,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8549237,1
+1,83,A low-power analog front end of passive UHF RFID tag IC for EPC™ C1G2,10.1109/ASICON.2009.5351346,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5351346,1
+1,84,A two channels I/Q-demodulator,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6192664,1
+1,85,V-band six-port quadrature demodulator : Error Vector Magnitude analysis,10.1109/GSMM.2015.7175109,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7175109,1
+1,86,Digital phase-sensitive demodulator for electrical impedance tomography,10.1109/IEMBS.2003.1279430,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1279430,1
+1,87,1-Gb/s mixed-mode BPSK demodulator using a half-rate linear phase detector for 60-GHz wireless PAN applications,10.1109/ASSCC.2008.4708801,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4708801,1
+1,88,Impedance Meter based on IQ Demodulators,10.1109/ISSE.2018.8443660,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8443660,1
+1,89,A 24mW 5.5Gbps dual frequency conversion demodulator for impulse-radio with first sidelobe,10.1109/RWS.2016.7444349,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7444349,1
+1,90,Digital demodulator at low sampling frequency for contactless smart cards transceiver,10.1109/SARNOF.2004.1302868,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1302868,1
+1,91,An Ultra-Broadband Direct Demodulator for Microwave FM Receivers,10.1109/TMTT.2011.2144993,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5771572,1
+1,92,A Recursive Demodulator for Real-Time Measurement of Multiple Sinusoids,10.1109/JSEN.2018.2844398,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8374047,1
+1,93,"A 7mA-1.8V, 2MHz GFSK analog demodulator with 1Mbps data rate",10.1109/ASSCC.2007.4425737,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4425737,1
+1,94,Timer-Based Demodulator for AM Sensor Signals Applied to an Inductive Displacement Sensor,10.1109/TIM.2017.2711918,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7956204,1
+1,95,A noncoherent low-power high-data-rate BPSK demodulator and clock recovery circuit for implantable biomedical devices,10.1109/BioCAS.2014.6981740,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6981740,1
+1,96,Expression of Concern: A random demodulator with a software-based integrator resetting scheme,10.1109/ICECS.2011.6122275,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6122275,1
+1,97,A dual-axis MEMS vibratory gyroscope ASIC with 0.0061°/s/VHz noise floor over 480 Hz bandwidth,10.1109/ASSCC.2017.8240206,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8240206,1
+1,98,Sub-Nyquist processing with the modulated wideband converter,10.1109/ICASSP.2010.5495911,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5495911,1
+1,99,An Experimental Ultra-Low-Voltage Demodulator in 0.18-$\mu$ m CMOS,10.1109/TMTT.2009.2029023,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5223687,1

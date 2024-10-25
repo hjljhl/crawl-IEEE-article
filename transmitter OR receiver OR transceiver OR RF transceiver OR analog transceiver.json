@@ -1,0 +1,7 @@
+{
+    "recordf": "transmitter OR receiver OR transceiver OR RF transceiver OR analog transceiver.csv",
+    "keyword": "transmitter OR receiver OR transceiver OR RF transceiver OR analog transceiver",
+    "pdfdir": "pdfs/transmitter",
+    "max_page": 3000,
+    "total_records": 306946
+}

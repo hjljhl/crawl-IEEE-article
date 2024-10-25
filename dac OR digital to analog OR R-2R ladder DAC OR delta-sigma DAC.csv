@@ -1,0 +1,101 @@
+﻿Page,Index,Title,DOI,PDFLink,Downloaded
+1,0,R-2R ladder circuit design for 32-bit digital-to-analog converter (DAC) with noise analysis and performance parameters,10.1109/ICCSP.2016.7754180,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7754180,0
+1,1,Digital Background Calibration for Binary DACs in Continuous Time Delta Sigma Modulators,10.1109/IranianCEE.2019.8786483,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8786483,0
+1,2,An Efficient and Low Power 45nm CMOS Based R-2R DAC,10.1109/INCET57972.2023.10170648,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10170648,0
+1,3,Detection of Catastrophic Faults in 6-Bit R-2R Ladder DAC,10.1109/ICEEIE59078.2023.10334914,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10334914,0
+1,4,Multi-bit Quantizer Delta-Sigma Modulator with the Feedback DAC Mismatch Error Shaping,10.1109/IranianCEE.2019.8786758,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8786758,0
+1,5,A Design of 14-bits ADC and DAC for CODEC Applications in 0.18 µm CMOS Process,10.1109/DELTA.2008.124,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4459499,0
+1,6,Direct Digital Frequency Synthesizer Modeling with a Re-configurable DAC Evaluation for Electrochemical Impedance Spectroscopy,10.1109/SENSORS52175.2022.9967147,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9967147,0
+1,7,Design of a delta-sigma (Δ-Σ) Based Digital-to-Analog Converter for TETRA-2 transmitter,10.1109/IMTC.2010.5488296,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5488296,0
+1,8,International Conference on Analogue to Digital and Digital to Analogue Conversion (Conf. Publ. No.343),,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=151966,0
+1,9,A 2-MHz BW 82-dB DR Continuous-Time Delta–Sigma Modulator With a Capacitor-Based Voltage DAC for ELD Compensation,10.1109/TVLSI.2018.2841058,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8374990,0
+1,10,A Cryo-CMOS 20-Bit R-2R Ladder DAC for the Manipulation of Silicon and Carbon Nanotube Qubits,10.1109/IMWS-AMP57814.2023.10381481,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10381481,0
+1,11,A Correlation-Based Background Error Estimation Technique for Bandpass Delta–Sigma ADC DACs,10.1109/TCSII.2011.2168021,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6082415,0
+1,12,First-order Continuous Time Delta-sigma Modulator with 3-bit SAR ADC and PNM DAC,10.1109/ISOCC59558.2023.10396178,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10396178,0
+1,13,A 4 bit 5GHz R-2R Digital to Analog Converter using hetrojunction HEMT,10.1109/C2SPCA.2013.6749415,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6749415,0
+1,14,A 350-MS/s Continuous-Time Delta–Sigma Modulator With a Digitally Assisted Binary-DAC and a 5-Bits Two-Step-ADC Quantizer in 130-nm CMOS,10.1109/TVLSI.2014.2352463,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6898830,0
+1,15,A 28-nm 6-GHz 2-bit Continuous-Time ΔΣ ADC With −101-dBc THD and 120-MHz Bandwidth Using Blind Digital DAC Error Correction,10.1109/JSSC.2022.3202977,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9894444,0
+1,16,A 12 Bit R-2R Digital-to-Analog Converter for Shuttling Operation in a Trapped-Ion Quantum Computer,10.1109/BCICTS54660.2023.10310675,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10310675,0
+1,17,Enhancing resolution of delta sigma modulator using 1-bit adaptive DAC,10.1109/ISOCC.2013.6863992,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6863992,0
+1,18,A design of 14-bits ΣΔ ADC and DAC for CODEC applications in 0.18 μm CMOS process,10.1109/RFIT.2007.4443927,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4443927,0
+1,19,Effect of Clock Duty-Cycle Error on Two-Channel Interleaved  $\Delta\Sigma$ DACs,10.1109/TCSII.2015.2415691,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7065319,0
+1,20,Multibit Delta-Sigma Modulator With Two-Step Quantization and Segmented DAC,10.1109/TCSII.2006.881825,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1705052,0
+1,21,A First-Order Tree-Structured DAC With Reduced Signal-Band Noise,10.1109/TCSII.2007.892397,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4182501,0
+1,22,A BIST scheme based on resistance match for current-mode R-2R ladder Digital-to-Analog Converter,10.1109/ICCRD.2011.5764201,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5764201,0
+1,23,Efficient Calibration of Feedback DAC in Delta Sigma Modulators,10.1109/TCSII.2020.2984025,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9050628,0
+1,24,On matching properties of R-2R ladders in high performance digital-to-analog converters,10.1109/IRANIANCEE.2010.5507030,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5507030,0
+1,25,A novel noise-shaping DAC for multi-bit sigma-delta modulator,10.1109/TCSII.2006.869920,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1632341,0
+1,26,A CT DSM with DAC Scaling Technique for Direct Neural Recording Front-End,10.1109/ASICON58565.2023.10396405,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10396405,0
+1,27,A 4th-Order Continuous-Time $\Delta\Sigma$ Modulator with Improved Clock Jitter Immunity using RTZ FIR DAC,10.1109/ICECS.2018.8617899,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8617899,0
+1,28,A New DAC Mismatch Shaping Technique for Sigma–Delta Modulators,10.1109/TCSII.2010.2083172,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5624575,0
+1,29,An R-2R Ladder-Based Architecture for High Linearity DACs,10.1109/IMTC.2007.379448,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4258307,0
+1,30,Design of power efficient hybrid flash-successive approximation register analog to digital converter,10.1109/ICCSP.2017.8286400,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8286400,0
+1,31,Built-In Self-Test for Low-Voltage High-Speed Analog-to-Digital Converters,10.1109/TIM.2007.908343,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4389150,0
+1,32,A multi-bit Sigma-Delta modulator using ratio-independent feedback DAC,10.1109/MWSCAS.2009.5236072,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5236072,0
+1,33,Continuous-time delta-sigma modulator with maximally flat signal transfer function using minimum number of DACs,10.1109/MWSCAS.2017.8053031,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8053031,0
+1,34,Nonlinearity Analysis of Resistive Ladder-Based Current-Steering Digital-to-Analog Converter,10.1109/ISOCC50952.2020.9332949,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9332949,0
+1,35,A High-Resolution Delta-Sigma D/A Converter Architecture with High Tolerance to DAC Mismatch,10.1109/ISCAS.2018.8351088,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8351088,0
+1,36,Maximum Sequence Length MASH Digital Delta–Sigma Modulators,10.1109/TCSI.2007.905653,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4358599,0
+1,37,Sturdy-MASH delta-sigma modulator with noise-shaped integrating quantizer and dual-DAC DWA,10.1109/ISCAS.2015.7168635,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7168635,0
+1,38,Digital RF Transmitter With Single-Bit  $\Delta\Sigma$ M-Driven Switched-Capacitor RF DAC and Embedded Band Filter in 28-nm FD-SOI,10.1109/TMTT.2019.2897929,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8657380,0
+1,39,High-Speed Digital-to-Analog Converter Using Schottky Diode Samplers,10.1109/TMTT.2006.883602,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4020490,0
+1,40,Multi-stage delta-sigma modulator with a relaxed opamp gain using a back-end digital integrator,10.1109/ISCAS.2016.7527544,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7527544,0
+1,41,An Intrinsically Linear 13-Level Capacitive DAC for Delta Sigma Modulators,10.1109/TCSII.2022.3224878,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9964091,0
+1,42,A Highly Linear Multi-Level SC DAC in a Power-Efficient Gm-C Continuous-Time Delta-Sigma Modulator,10.1109/ISCAS45731.2020.9180765,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9180765,0
+1,43,An Extremely Linear Multi-Level DAC for Continuous-Time Delta-Sigma Modulators,10.1109/TCSII.2018.2859776,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8419205,0
+1,44,A 26GHz-Band Image Enhancement Type 1-Bit DAC for Direct Digital RF Modulator,10.23919/APMC.2018.8617154,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8617154,0
+1,45,Low voltage analog digital converter using sigma-delta modulator,10.1109/SOCDC.2008.4815745,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4815745,0
+1,46,High Dynamic Range Audio Multi-bit 2<sup>nd</sup> Order DT DSM Hybrid SAR ADC with One Sharing DAC,10.1109/ISPACS51563.2021.9651041,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9651041,0
+1,47,Gm-cell nonlinearity compensation technique using single-bit quantiser and FIR DAC in Gm-C based delta-sigma modulators,10.1109/ISCAS.2016.7527545,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7527545,0
+1,48,Dynamic element matching using simultaneity tow different techniques for multibit Delta Sigma Modulator,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5955645,0
+1,49,A Highly Linear 8-Bit M–2M Digital-to-Analog Converter for Neurostimulators,10.1109/TCSII.2019.2928548,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8762220,0
+1,50,On the Static Resolution of Digitally Corrected Analog-to-Digital and Digital-to-Analog Converters With Low-Precision Components,10.1109/TCSI.2006.887453,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4061014,0
+1,51,A 4-Channel 12-Bit High-Voltage Radiation-Hardened Digital-to-Analog Converter for Low Orbit Satellite Applications,10.1109/TCSI.2018.2856851,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8438895,0
+1,52,An 8-GS/s 200-MHz Bandwidth 68-mW $\Delta\Sigma$  DAC in 65-nm CMOS,10.1109/TCSII.2013.2258272,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6509447,0
+1,53,Complex mismatch shaper for tree-structured DAC in multi-bit complex sigma-delta modulators,10.1109/ICECS.2008.4674857,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4674857,0
+1,54,High-linearity Radiation-hardened Segmented 12-bit Digital-to-analog Converter Using Binary-weighted Switches,10.1109/ElConRus51938.2021.9396690,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9396690,0
+1,55,A Resistor-Based High-Resolution Temperature-to-Digital Converter,10.1109/VLSITSA60681.2024.10546354,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10546354,0
+1,56,A low-Voltage 10-bit CMOS DAC in 0.01-mm/sup 2/ die area,10.1109/TCSII.2005.843595,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1431101,0
+1,57,Research of segmented 8bit voltage-mode R-2R ladder DAC,10.1109/ASICON.2015.7517105,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7517105,0
+1,58,Implementation of 4-bit Direct Charge Transfer Switched Capacitor DAC with mismatch shaping technique,10.1109/PERVASIVE.2015.7086968,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7086968,0
+1,59,A Low-Noise Wide-BW 3.6-GHz Digital  $\Delta\Sigma$ Fractional-N Frequency Synthesizer With a Noise-Shaping Time-to-Digital Converter and Quantization Noise Cancellation,10.1109/JSSC.2008.2005704,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4684627,0
+1,60,Nonlinearity analysis of R-2R ladder-based current-steering digital to analog converter,10.1109/ISCAS.2013.6571976,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6571976,0
+1,61,A SiC 8 Bit DAC at 400°C,10.1109/WiPDA.2015.7369325,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7369325,0
+1,62,A direct down converted low-jitter band pass delta sigma receiver with frequency translating technique and sinusoidal RF DAC,10.1109/APMC.2012.6421789,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6421789,0
+1,63,A 22-Bit 34-uW Sturdy-MASH Digital Delta-Sigma Modulator with Nested Bus-Splitting and Resolution Enhancement,10.1109/ICCS59502.2023.10367236,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10367236,0
+1,64,Design of a 5 GS/s fully-digital digital-to-analog converter,10.1109/ISCAS.2014.6865443,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6865443,0
+1,65,Delta-Sigma Modulator Design Using a Memristive FIR DAC,10.1109/ICECS202256217.2022.9970832,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9970832,0
+1,66,Gain Mismatch Insensitive Time-Interleaved DAC for CT Delta Sigma Modulator by application of a Three-State DAC,10.1109/ISCAS.2018.8350974,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8350974,0
+1,67,An Improved Switch Compensation Technique for Inverted R-2R Ladder DACs,10.1109/TCSI.2008.2008510,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4663681,0
+1,68,Toward Accurate Analysis of Channel Charge Injection in SAR ADCs' Capacitive DACs,10.1109/ISCAS58744.2024.10557986,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10557986,0
+1,69,Design of 1-1-1 Cascaded Discrete-Time Delta-Sigma Modulator based on Tracking Quantizer,10.1109/IICM60532.2023.10443154,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10443154,0
+1,70,A DEM-Free Sturdy MASH Delta-Sigma Modulator with a Highly-Linear Tri-level DAC,10.1109/EDSSC.2019.8754500,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8754500,0
+1,71,CMOS Image Sensor With Two-Step Single-Slope ADCs and a Detachable Super Capacitive DAC,10.1109/TCSII.2021.3118647,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9564256,0
+1,72,Testing of Precision DAC Using Low-Resolution ADC With Wobbling,10.1109/TIM.2007.911694,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4430788,0
+1,73,Design of efficient digital interpolation filters and sigma-delta modulator for audio DAC,10.1109/DTIS.2008.4540251,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4540251,0
+1,74,Modeling Timing Jitter Effects in Digital-to-Analog Converters,10.1109/TIM.2008.2003313,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4623137,0
+1,75,Analog-digital and digital-analog converters using single-electron and MOS transistors,10.1109/TNANO.2005.858600,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1528477,0
+1,76,Accurate Digital Synthesis of Sinewaves,10.1109/TIM.2007.911583,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4414364,0
+1,77,Modeling thermal induced inter-symbol interference of feedback digital to analog converters in delta-sigma modulators,10.1109/BMAS.2004.1393975,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1393975,0
+1,78,A three bit second order audio band delta sigma modulator with 98.2dB SQNR,10.1109/ISICIR.2016.7829750,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7829750,0
+1,79,A continuous-time delta-sigma modulator with self-ELD compensated quantizer,10.1109/CICC.2018.8357087,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8357087,0
+1,80,Information maximizing DAC noise shaping,10.1109/ICASSP.2014.6853984,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6853984,0
+1,81,An Inverter-Based Continuous Time Sigma Delta ADC With Latency-Free DAC Calibration,10.1109/TCSI.2020.3009652,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9146678,0
+1,82,Analog Multiplexer for Performance Enhancement of Digital-to-Analog Converters and Experimental 2-to-1 Time Interleaving in 28-nm FD-SOI CMOS,10.1109/LSSC.2023.3323857,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10285409,0
+1,83,DAC-Free 4096-QAM OFDM Transmission Employing 2-Bit Low-OSR Delta-Sigma Modulation and Dual-Drive MZM,10.23919/OECC/PSC53152.2022.9850021,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9850021,0
+1,84,Digital-Preprocessed Analog-Multiplexed DAC for Ultrawideband Multilevel Transmitter,10.1109/JLT.2015.2508040,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7353122,0
+1,85,Analysis of Timing Error Aperture Jitter on the Performance of Sigma Delta ADC for Software Radio Mobile Receivers,10.1109/ARTCom.2009.22,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5329250,0
+1,86,A Time-Interleaved  $\Delta\Sigma$-DAC Architecture Clocked at the Nyquist Rate,10.1109/TCSII.2008.923426,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4530756,0
+1,87,System-level design of a delta-sigma modulator target for next generation wireless application,10.1109/RFIT.2009.5383676,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5383676,0
+1,88,Analog-to-Digital Converters Using Not Multi-level But Multi-bit Feedback Paths,10.1109/ISMVL.2017.30,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7964958,0
+1,89,Oversampling A/D Converters With Reduced Sensitivity to DAC Nonlinearities,10.1109/TCSII.2009.2032474,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5291784,0
+1,90,Design of a low-voltage low power dynamic latch comparator for a 1.2-V 0.4-mW CT delta sigma modulator with 41-dBm SNDR,10.1109/ICOEI.2017.8300817,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8300817,0
+1,91,Detection and Removal of Limit Cycles in Sigma Delta Modulators,10.1109/TCSI.2008.925078,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4518931,0
+1,92,Verification of an Active Time Constant Tuning Technique for Continuous-Time Delta-Sigma Modulators,10.1109/SMACD55068.2022.9816223,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9816223,0
+1,93,A 134-μW 99.4-dB SNDR Audio Continuous-Time Delta-Sigma Modulator With Chopped Negative-R and Tri-Level FIR-DAC,10.1109/JSSC.2020.3032152,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9252136,0
+1,94,An audio ADC Delta-Sigma modulator with 100-dB peak SINAD and 102-dB DR using a second-order mismatch-shaping DAC,10.1109/4.910472,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=910472,0
+1,95,Stable high-order delta-sigma digital-to-analog converters,10.1109/TCSI.2003.821283,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1259505,0
+1,96,An 8.5 mW Continuous-Time  $\Delta \Sigma $ Modulator With 25 MHz Bandwidth Using Digital Background DAC Linearization to Achieve 63.5 dB SNDR and 81 dB SFDR,10.1109/JSSC.2011.2164303,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6024453,0
+1,97,A 16-bit 12-GS/s Single-/Dual-Rate DAC With a Successive Bandpass Delta-Sigma Modulator Achieving <−67-dBc IM3 Within DC to 6-GHz Tunable Passbands,10.1109/JSSC.2018.2871143,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8485418,0
+1,98,Low power continuous-time delta-sigma ADC with current output DAC,10.1109/ECCTD.2015.7300096,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7300096,0
+1,99,High-precision digital microflow controllers using fluidic digital-to-analog converters composed of binary-weighted flow resistors,10.1109/JMEMS.2006.878887,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1668193,0

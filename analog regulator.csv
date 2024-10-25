@@ -1,0 +1,101 @@
+﻿Page,Index,Title,DOI,PDFLink,Downloaded
+1,0,An Analog-Assisted Tri-Loop Digital Low-Dropout Regulator,10.1109/JSSC.2017.2751512,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8054693,1
+1,1,Review of Analog-Assisted-Digital and Digital-Assisted-Analog Low Dropout Regulators,10.1109/TCSII.2020.3040393,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9270575,1
+1,2,A Fast Response Digital Low-Dropout Regulator Based on Enhanced Analog Assisted Loop,10.1109/ICTA50426.2020.9332011,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9332011,1
+1,3,PID Control Considerations for Analog-Digital Hybrid Low-Dropout Regulators (Invited Paper),10.1109/EDSSC.2019.8754302,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8754302,1
+1,4,Design of low-power analog drivers based on slew-rate enhancement circuits for CMOS low-dropout regulators,10.1109/TCSII.2005.850781,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1510878,1
+1,5,A Current Efficient 10mA Analog-Assisted Digital Low Dropout Regulator with Dynamic Clock Frequency in 65nm CMOS,10.1109/ISCAS45731.2020.9180860,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9180860,1
+1,6,A Switchable Digital–Analog Low-Dropout Regulator for Analog Dynamic Voltage Scaling Technique,10.1109/JSSC.2013.2297395,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6714547,1
+1,7,A programmable low dropout regulator for delay correction network in DPWM,10.1109/ICRITO.2015.7359345,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7359345,1
+1,8,Experimental behavior of Line-TFET applied to Low-Dropout Voltage Regulator,10.1109/SBMICRO55822.2022.9881041,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9881041,1
+1,9,A Low-Dropout Regulator With Tail Current Control for DPWM Clock Correction,10.1109/TCSII.2011.2177703,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6107568,1
+1,10,A Capacitor-Less Digital Low-Dropout Regulator With Self-Clocked Operation,10.1109/TCSII.2023.3277976,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10130075,1
+1,11,A Sub-1V Analog-Assisted Inverter-Based Digital Low-Dropout Regulator with a Fast Response Time at 25mA/100ps and 99.4% Current Efficiency,10.1109/CICC.2019.8780173,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8780173,1
+1,12,An Overview of Digital Low Drop-out Regulator Design,10.1109/APCCAS.2018.8605699,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8605699,1
+1,13,A low dropout regulator with PSR under −48dB up to 20GHz for a SARADC reference buffer,10.1109/MWSCAS54063.2022.9859364,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9859364,1
+1,14,An Area-Efficient Current Quantization Circuit Inspired by Digital Low-Dropout Regulators,10.1109/CICTA.2018.8706093,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8706093,1
+1,15,A Digital LDO in 22-nm CMOS With a 4-b Self-Triggered Binary Search Windowed Flash ADC Featuring Analog Layout Generator Framework,10.1109/LSSC.2023.3265956,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10097870,1
+1,16,A Transient-Enhanced Digital Low-Dropout Regulator with Bisection Method Tuning,10.1109/APCCAS.2018.8605667,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8605667,1
+1,17,Scalable All-Analog LDOs With Reduced Input Offset Variability Using Digital Synthesis Flow in 65-nm CMOS,10.1109/TVLSI.2023.3328978,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10314489,1
+1,18,Design of Low Dropout Voltage Regulator for Battery Operated Devices,10.1109/INDICON45594.2018.8986999,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8986999,1
+1,19,Power Efficient Analog-Assisted Digital Voltage Regulator for Implantable Medical Devices,10.1109/LASCAS60203.2024.10506156,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10506156,1
+1,20,Cryogenic Low-Drop-Out Regulators Fully Integrated with Quantum Dot Array in 22-nm FD-SOI CMOS,10.1109/IMS19712.2021.9574910,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9574910,1
+1,21,0.5 V output digital low dropout (DLDO) voltage regulator with VCO-based digital feedback loop,10.1109/TENCON.2017.8227916,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8227916,1
+1,22,A 200-mA Digital Low Drop-Out Regulator With Coarse-Fine Dual Loop in Mobile Application Processor,10.1109/JSSC.2016.2614308,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7740906,1
+1,23,An External-Capacitorless High-PSR Linear Voltage Regulator With Source-Follower-Based Pre-Filter,10.1109/PRIME58259.2023.10161891,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10161891,1
+1,24,Full On-Chip CMOS Low-Dropout Voltage Regulator,10.1109/TCSI.2007.902615,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4303304,1
+1,25,Digital Assisted Defect Detection Methods for Analog and Mixed Signal Circuits: An Overview,10.1109/EWDTS59469.2023.10297053,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10297053,1
+1,26,A design of inductive coupling wireless power receiver with high efficiency Active Rectifier and multi feedback LDO regulator,10.1109/WPT.2016.7498865,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7498865,1
+1,27,Design Trends and Perspectives of Digital Low Dropout Voltage Regulators for Low Voltage Mobile Applications: A Review,10.1109/ACCESS.2023.3303809,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10214010,1
+1,28,A CMOS low-dropout regulator with high power supply rejection,10.1109/EDSSC.2009.5394237,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5394237,1
+1,29,"Total Dose Performance at High and Low Dose Rate of a CMOS, Low Dropout Voltage Regulator showing Enhanced Low Dose Rate Sensitivity",10.1109/NSREC45046.2021.9679352,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9679352,1
+1,30,A High-Current Scalable Parallel LDO Scheme With Analog-Digital Merged Control for Small Current-Sharing Mismatch,10.1109/TCSI.2023.3293133,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10185923,1
+1,31,A low-complexity high-performance digital control architecture for voltage regulator modules,10.1109/PESC.2003.1218283,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1218283,1
+1,32,A Dual-Loop Digital LDO Regulator with Asynchronous-Flash Binary Coarse Tuning,10.1109/ISCAS.2018.8351669,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8351669,1
+1,33,Robust Built-in Defect-Detection for Low Drop-Out Regulators using Digital Mismatch Injection,10.1109/ISCAS48785.2022.9937644,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9937644,1
+1,34,Relative Stability Analysis of Multi-Loop Low Dropout Regulators Using a Sub-Loop Superposition Method,10.1109/TCSII.2023.3282633,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10143923,1
+1,35,"Exploration and evaluation of low-dropout linear voltage regulator with FinFET, TFET and hybrid TFET-FinFET implementations",10.1109/ISCAS.2017.8051018,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8051018,1
+1,36,Nanowire TFET with different Source Compositions applied to Low-Dropout Voltage Regulator,10.1109/SBMICRO55822.2022.9881035,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9881035,1
+1,37,A Dual-Rail Hybrid Analog/Digital Low-Dropout Regulator With Dynamic Current Steering for a Tunable High PSRR and High Efficiency,10.1109/LSSC.2020.3035675,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9247168,1
+1,38,Double-OTA External Capless Low-power LDO Regulator with Enhanced PSR and Transient Response,10.1109/IICM60532.2023.10443212,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10443212,1
+1,39,A Low Drop-Out Regulator With Feed-Forward Ripple Cancellation Technique,10.1109/MNANO.2024.3436408,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10663695,1
+1,40,A Transient Response Improved Digital LDO with an Approximate CEAG Analog-to-Frequency Domain Converter,10.1109/ISCAS58744.2024.10558016,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10558016,1
+1,41,A CMOS ripple detector for integrated voltage regulator testing,10.1109/MWSCAS.2015.7282194,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7282194,1
+1,42,A 12-bit integrated analog front-end for broadband wireline networks,10.1109/CICC.2001.929737,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=929737,1
+1,43,A 30-mA CMOS low dropout regulator for WiMAX analog front ends with 50 dB PSRR at 10 M Hz,10.1109/INTLEC.2012.6374479,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6374479,1
+1,44,Docking Study of Synthesized Juvenile Hormone Analogues as an Insect Growth Regulators,10.1109/UKSim.2012.109,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6205437,1
+1,45,Low power on-chip load tracking-zero compensation method for low dropout regulator,10.1109/NEWCAS.2015.7182099,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7182099,1
+1,46,A 0.73-to-1.71 V Capacitor-less Low-Noise Low-Dropout Regulator in 28-nm CMOS,10.1109/ISCAS48785.2022.9937427,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9937427,1
+1,47,Design and Implementation of FPAA based LQR Controller for Magnetic Levitation Control System,10.1109/TSP.2019.8769081,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8769081,1
+1,48,A domino optimization method for the low dropout regulator design automation,10.1109/APMC.2008.4958333,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4958333,1
+1,49,High Power-Supply-Rejection (PSR) Current-Mode Low-Dropout (LDO) Regulator,10.1109/TCSII.2010.2068110,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5617259,1
+1,50,Analog Circuit Design in Nanoscale CMOS Technologies,10.1109/JPROC.2009.2024663,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5247174,1
+1,51,A 166MS/s 31mW pipelined interpolating ADC in 0.18µm CMOS with on-chip LDO regulator,10.1109/CSQRWC.2011.6037258,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6037258,1
+1,52,Design of a Pixel Readout ASIC Using Super Pixel Circuits With a Built-In LDO Regulator for Hybrid X-Ray Imaging Detectors,10.1109/TCSII.2024.3371098,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10453352,1
+1,53,A Capacitor-Less CMOS Active Feedback Low-Dropout Regulator With Slew-Rate Enhancement for Portable On-Chip Application,10.1109/TCSII.2009.2038630,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5395671,1
+1,54,Ultra-Low-Power Low Drop-Out (LDO) Voltage Regulator With Improved Power Supply Rejection,10.1109/NRSC52299.2021.9509816,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9509816,1
+1,55,An Improved Design of Hybrid Integrated Voltage Regulator Based on DLDO and SCVR,10.1109/ICSICT49897.2020.9278025,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9278025,1
+1,56,"Dual Op Amp, LDO Regulator with Power Supply Gain Suppression for CMOS Smart Sensors and Microsystems",10.1109/ISCAS.2008.4541956,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4541956,1
+1,57,Integrated ADC and Low Noise PLL with Low-dropout Regulator for Transformer Coupler Quadrature Hybrid Wireless Charging,10.1109/APEMC49932.2021.9596767,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9596767,1
+1,58,A Low-Dropout Regulator for One Time Programmable (OTP) Memories in Automotive Applications,10.1109/ICECS53924.2021.9665607,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9665607,1
+1,59,Analog-Assisted Digital Capacitorless Low-Dropout Regulator Supporting Wide Load Range,10.1109/TIE.2018.2840492,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8370804,1
+1,60,Study of Error Amplifiers for Low Power Capacitorless Low Dropout Voltage Regulator using 110 nm CMOS Technology,10.1109/RSM59033.2023.10327191,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10327191,1
+1,61,Monolithic/Modularized Voltage Regulator Channel,10.1109/TPEL.2007.900466,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4267790,1
+1,62,Limit Cycle Oscillation Reduction for Digital Low Dropout Regulators,10.1109/TCSII.2016.2534778,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7419894,1
+1,63,"An Analog-Proportional Digital-Integral Multi-Loop Digital LDO with Fast Response, Improved PSR and Zero Minimum Load Current",10.1109/CICC.2019.8780307,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8780307,1
+1,64,A 1.2-A Calibration-Free Hybrid LDO With In-Loop Quantization and Auxiliary Constant Current Control Achieving High Accuracy and Fast DVS,10.1109/TCSI.2022.3198268,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9859258,1
+1,65,Thermal analysis and optimization of 2.5-D integrated voltage regulator,10.1109/EPEPS.2012.6457835,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6457835,1
+1,66,A Low-noise Low-Dropout Regulator Using a 28-nm Technology,10.1109/ICECS49266.2020.9294787,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9294787,1
+1,67,An External Capacitor-Less Low-Dropout Voltage Regulator Using a Transconductance Amplifier,10.1109/TCSII.2019.2921874,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8733840,1
+1,68,A droop measurement built-in self-test circuit for digital low-dropout regulators,10.1109/ISQED.2018.8357257,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8357257,1
+1,69,High accuracy LDO regulator with fast transient response,10.1109/TENCON.2008.4766671,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4766671,1
+1,70,Study of Telescopic Error Amplifier for Low Power 110 nm Capacitorless Low Dropout Voltage Regulator,10.1109/ICE2T58637.2023.10540560,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10540560,1
+1,71,Single Event-Induced Instability in Linear Voltage Regulators,10.1109/TNS.2006.886214,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4033182,1
+1,72,A Synthesizable Digital Low-Dropout Regulator Based on Voltage-to-Time Conversion,10.1109/VLSI-SoC.2018.8644879,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8644879,1
+1,73,An Output-Capacitorless Low-Dropout Regulator with High Slew Rate and Unity-Gain Bandwidth,10.1109/ISCAS45731.2020.9181142,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9181142,1
+1,74,A single-inductor dual-output converter with switchable digital-or-analog low-dropout regulator for ripple suppression and high efficiency operation,10.1109/IPEC.2012.6522666,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6522666,1
+1,75,Cascoded flipped voltage follower based output-capacitorless low-dropout regulator for SoCs,10.1109/SOCC.2015.7406985,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7406985,1
+1,76,Simultaneous optimization for low dropout regulator and its error amplifier with process variation,10.1109/VLSI-DAT.2014.6834870,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6834870,1
+1,77,25.3 A 128b AES Engine with Higher Resistance to Power and Electromagnetic Side-Channel Attacks Enabled by a Security-Aware Integrated All-Digital Low-Dropout Regulator,10.1109/ISSCC.2019.8662344,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8662344,1
+1,78,An NMOS Digital LDO With NAND-Based Analog-Assisted Loop in 28-nm CMOS,10.1109/TCSI.2020.3009454,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9146705,1
+1,79,Microcontroller Based Optical Switch and Regulator for Home Applications,10.1109/ECACE.2019.8679369,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8679369,1
+1,80,Technological Platform for Adjustment and Testing of Hybrid Electronic Voltage Regulators for Cars,10.1109/ESTC55720.2022.9939456,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9939456,1
+1,81,An Analog-assisted Fast-transient Digital LDO with a Charge-pump-based Fine Loop Achieving 0.14-mV Output Voltage Ripples,10.1109/ISCAS58744.2024.10557926,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10557926,1
+1,82,A Digital LDO Regulator With a Self-Clocking Burst Logic for Ultralow Power Applications,10.1109/TVLSI.2019.2920910,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8746678,1
+1,83,Design of low dropout regulator using artificial bee colony evolutionary algorithm,10.1109/ICCPCT.2015.7159280,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7159280,1
+1,84,Hardware and software complex for the investigations of digital-analog follow-up motor,10.1109/SPCMTT.2002.1213749,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1213749,1
+1,85,A Fully Integrated Digital Low-Dropout Regulator Based on Event-Driven Explicit Time-Coding Architecture,10.1109/JSSC.2017.2740269,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8052211,1
+1,86,A 23-nA Quiescent Current Output-Capacitorless LDO Regulator for IoT Devices,10.1109/ASICON58565.2023.10396031,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10396031,1
+1,87,Fully Digitally Controlled Voltage Regulator Based on FPGA,10.1109/ICNEPE60694.2023.10429143,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10429143,1
+1,88,An Analog-Assisted Digital LDO with 0.37mV Output Ripple and 5500x Load Current Range in 180nm CMOS,10.1109/ICTA56932.2022.9963060,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9963060,1
+1,89,System accuracy analysis of the multiphase voltage regulator module,10.1109/APEC.2003.1179295,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1179295,1
+1,90,Triple Binary SAR Control in Distributive Digital Low Dropout Regulators for 3.6ns Fast Transient Response and 0.4mV Low Output Voltage Ripple,10.1109/ISCAS48785.2022.9937886,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9937886,1
+1,91,KIDEA: A Novel Multi-Objective Optimization Algorithm and its Application in Analog Circuit Design,10.1109/ISEDA62518.2024.10617598,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10617598,1
+1,92,A Subcircuit Matching Approach to Structural Analog Circuit Model Generation and Sizing,10.1109/ISEDA62518.2024.10617871,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10617871,1
+1,93,20.4 An output-capacitor-free analog-assisted digital low-dropout regulator with tri-loop control,10.1109/ISSCC.2017.7870401,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7870401,1
+1,94,High-Voltage Analog System for a Mobile NAND Flash,10.1109/JSSC.2007.914327,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4444566,1
+1,95,Parameters and States Estimation with Linear Quadratic Regulator Applied to Uninterruptible Power Supplies (UPS),10.1109/IECON.2006.347659,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4153403,1
+1,96,Low quiescent current variable output digital controlled voltage regulator,10.1109/ISCAS.2010.5537518,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5537518,1
+1,97,A low drop-out regulator with embedded voltage reference,10.1109/INEC.2016.7589427,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7589427,1
+1,98,A 10-bit 205-MS/s 1.0- $\hbox{mm}^{2}$ 90-nm CMOS Pipeline ADC for Flat Panel Display Applications,10.1109/JSSC.2007.908760,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4381455,1
+1,99,"Review, Survey, and Benchmark of Recent Digital LDO Voltage Regulators",10.1109/CICC53496.2022.9772734,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9772734,1

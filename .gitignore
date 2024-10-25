@@ -109,5 +109,8 @@ venv.bak/
 .mypy_cache/
 
 .vscode
+.idea
 cookie.txt
 .cookie.txt.bak
+pdfs/
+index/

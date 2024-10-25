@@ -39,7 +39,7 @@ def search(headers, session, query_text, page_number=1, thread_id=0):
 
     return records
 
-def get_search_res(headers, session, recordCfgf:str, keyword:str=None, thread_id=0):
+def get_search_res(headers, session, recordCfgf:str, keyword:str=None, thread_id:int=0):
     """
     从搜索结果中获取文章信息,并保存到csv文件中
     在单线程下工作,多线程下每个线程用不同的keyword
@@ -66,7 +66,7 @@ def get_search_res(headers, session, recordCfgf:str, keyword:str=None, thread_id
         recordf = recordCfgf.split('.')[0]+'.csv'
         recordCfg['recordf'] = recordf
         recordCfg['keyword'] = keyword
-        recordCfg['pdfdir'] = recordCfgf.split('.')[0]+'_pdfs'
+        recordCfg['pdfdir'] = 'pdfs' + recordCfgf.split('.')[0]+'_pdfs'
         max_page = 1
     # read csv
     if os.path.exists(recordf):
@@ -77,7 +77,8 @@ def get_search_res(headers, session, recordCfgf:str, keyword:str=None, thread_id
         lastindex = int(csvCont[-1]['Index'])
         csvHeader = False
     # running
-    while page <= max_page:
+    # while page <= max_page:
+    while page <= 1:
         # search
         if page == 1:
             records, totalRecords, max_page = search(headers,session, query_text=keyword, page_number=page, thread_id=thread_id)

@@ -1,0 +1,101 @@
+﻿Page,Index,Title,DOI,PDFLink,Downloaded
+1,0,Improvement of the Gain Accuracy of the Instrumentation Amplifier Using a Very High Gain Operational Amplifier,10.1109/DEVIC.2019.8783414,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8783414,1
+1,1,Yokto (10-24V) Instrumentation Amplifier,10.1109/ICCCT.2012.31,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6394679,1
+1,2,Emulation of a Multi-Stage Differential Amplifier Using one Single-Ended Device-Under-Test,10.1109/ARFTG49670.2021.9425107,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9425107,1
+1,3,Differential Voltage Current Conveyor Transconductance Amplifier based instrumentation amplifier,10.1109/ICPEICES.2016.7853350,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7853350,1
+1,4,A high gain and low-offset current-mode instrumentation amplifier using differential difference current conveyors,10.1109/ICECS.2015.7440251,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7440251,1
+1,5,Test Bench for Biopotential Instrumentation Amplifier using Single-Ended to Differential Amplifiers,10.1109/ICMTS55420.2023.10094130,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10094130,1
+1,6,Stability Analysis of On-Chip Multi-Stage RF Power Amplifiers,10.1109/RFIC.2007.380926,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4266474,1
+1,7,"High CMRR, Low Power and Wideband Current-Mode Instrumentation Amplifier",10.1109/NORCHP.2006.329258,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4126961,1
+1,8,High Gain and High Bandwidth Fully Differential Difference Amplifier as Current Sense Amplifier,10.1109/TIM.2020.3018830,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9177098,1
+1,9,Design of CMOS instrumentation amplifier with improved gain & CMRR for low power sensor applications,10.1109/NGCT.2016.7877392,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7877392,1
+1,10,Single-ended Input to Differential Output Circuits. A Comparative Analysis,10.1109/IMTC.2006.328587,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4124386,1
+1,11,Electronically tunable gain instrumentation amplifier using OTAs,10.1109/ICCAS.2008.4694395,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4694395,1
+1,12,Lock-in amplifier techniques for low-frequency modulated sensor applications,10.1109/I2MTC.2012.6229510,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6229510,1
+1,13,Two-Stage Differential Charge and Transresistance Amplifiers,10.1109/IMTC.2006.328312,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4124687,1
+1,14,Non-linearity in high gain CMOS buffer amplifiers for CCD processor applications,10.1109/IMTC.2007.379450,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4258309,1
+1,15,DC offset voltage reduction in cascaded instrumentation amplifier,10.1109/SCES.2013.6547579,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6547579,1
+1,16,A low-voltage high-gain wide-bandwidth class-AB differential difference amplifier,10.1109/APCCAS.2008.4746235,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4746235,1
+1,17,Design of a 90nm Instrumentation Amplifier for High Precision Signal Acquisition Applications,10.1109/ICSIMA59853.2023.10373502,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10373502,1
+1,18,High frequency amplifiers for piezoelectric sensors noise analysis and reduction techniques,10.1109/I2MTC.2015.7151387,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7151387,1
+1,19,A High Speed Two Stage Operational Amplifier with High CMRR,10.1109/RTEICT42901.2018.9012268,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9012268,1
+1,20,A Novel Technique of Enhancing CMRR of Fully- Differential Instrumentation Amplifier Using High Gain CMFB Loop,10.1109/EDKCON56221.2022.10032884,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10032884,1
+1,21,The Third Order Active Low-Pass RC-Filters Based on Differential and Differential Difference Operational Amplifiers,10.1109/EDM.2019.8823488,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8823488,1
+1,22,Noise Cancellation and DC Offset Voltage Reduction using three Stage Cascaded Instrumentation Amplifier,10.1109/SEEMS.2018.8687362,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8687362,1
+1,23,A Low-power and Low-noise Multi-purpose Chopper Amplifier with High CMRR and PSRR,10.1109/EMBC44109.2020.9176224,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9176224,1
+1,24,The differential difference amplifiers of sensor systems with input transistors of various physical nature,10.1109/ICSES.2016.7593837,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7593837,1
+1,25,Balanced-output-signal generator,10.1109/TIM.2006.873819,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1634875,1
+1,26,Design of CMOS difference amplifier circuit for sigma delta ADC for aerospace applications,10.1109/ICOMICON.2017.8279119,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8279119,1
+1,27,A highly linear 79 GHz Low-Noise Amplifier for Civil-Automotive Radars in 22 nm FD-SOI CMOS with -6 dBm iP1dB and 5 dB NF,10.23919/EuMIC50153.2022.9783227,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9783227,1
+1,28,A pseudo rail-to-rail chopper-stabilized instrumentation amplifier in 0.13 µm CMOS,10.1109/MWSCAS.2009.5236166,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5236166,1
+1,29,A High Input Impedance Single-Ended Input to Balanced Differential Output Amplifier,10.1109/TIM.2019.2915776,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8710293,1
+1,30,A Current-Feedback Instrumentation Amplifier With 5 $\mu{\hbox{V}}$  Offset for Bidirectional High-Side Current-Sensing,10.1109/JSSC.2008.2005695,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4684638,1
+1,31,Improved Self-Biased Differential Amplifiers Using Multiple-Vt CMOS Transistors,10.1109/INSCIT59673.2023.10258510,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10258510,1
+1,32,A novel current-mode instrumentation amplifier based on operational floating current conveyor,10.1109/TIM.2005.854254,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1514647,1
+1,33,Fully Differential AC-Coupling Networks: A Comparative Study,10.1109/TIM.2008.927200,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4568419,1
+1,34,Silicon carbide based instrumentation amplifiers for extreme applications,10.1109/ICSENS.2015.7370504,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7370504,1
+1,35,Development of an Instrumentation Amplifier for Rheographic Measurements,10.1109/USBEREIT51232.2021.9454966,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9454966,1
+1,36,Design and Implementation of Difference and Instrumentation Amplifier's Laboratory System for Education in Analog Electronics,10.1109/ET50336.2020.9238235,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9238235,1
+1,37,A Low Power and Area-efficient Fully Differential Chopper Amplifier Suitable for EEG Recording,10.1109/ICEE.2018.8472571,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8472571,1
+1,38,Two-Stage Differential Charge and Transresistance Amplifiers,10.1109/TIM.2007.909498,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4427390,1
+1,39,CMOS Transimpedance Feedback Amplifier Design using Unity Gain Differential Amplifiers,10.1109/ESCI50559.2021.9396931,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9396931,1
+1,40,A Technique for Differential Noise Figure Measurement of Differential LNAs,10.1109/TIM.2008.917673,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4463664,1
+1,41,A CMOS chopper-stabilized differential difference amplifier for biomedical integrated circuits,10.1109/MWSCAS.2004.1354284,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1354284,1
+1,42,A 79 GHz reconfigurable highly linear Low-Noise Amplifier for Civil-Automotive Short-Range-Radars in 22-nm FD-SOI CMOS,10.23919/EuMIC54520.2022.9922964,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9922964,1
+1,43,Multiparallel Differential JFET Low-Noise Amplifier Circuit Based on Discrete Current Source,10.1109/TIM.2024.3451602,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10659055,1
+1,44,SOI Instrumentation Amplifier for High-Temperature Applications,10.1109/EWDTS50664.2020.9224893,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9224893,1
+1,45,An MOS switched capacitor sampling differential instrumentation amplifier,10.1109/ISSCC.1982.1156330,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1156330,1
+1,46,A novel AC-amplifier for electrophysiology: active DC suppression with differential to differential amplifier in the feedback-loop,10.1109/IEMBS.2001.1019538,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1019538,1
+1,47,A monolithic instrumentation amplifier with low input current,10.1109/ISSCC.1973.1155200,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1155200,1
+1,48,Modelling and Stability Analysis of a Fractional-Order RC Coupled BJT Amplifier,10.1109/ODICON54453.2022.10009975,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10009975,1
+1,49,A novel architecture for current-feedback instrumentation amplifiers with rail-to-rail input range,10.1109/PRIME.2014.6872668,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6872668,1
+1,50,A 1-V fully differential amplifier with buffered nested-Miller compensation,10.1109/SOCDC.2009.5423789,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5423789,1
+1,51,Direct Interference Canceling for Two-Electrode Biopotential Amplifier,10.1109/TBME.2008.923108,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4487052,1
+1,52,The main modifications of analog interface of sensor systems based on two differential difference operational amplifiers,10.1109/SIBCON.2016.7491800,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7491800,1
+1,53,60GHz CMOS differential and transformer-coupled power amplifier for compact design,10.1109/RFIC.2008.4561387,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4561387,1
+1,54,CMOS fully differential operational transconductance amplifier design for delta-sigma modulators,10.1109/SECON.2008.4494255,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4494255,1
+1,55,Systematic Approach for the Linearization and Readout of Nonsymmetric Impedance Bridges,10.1109/TIM.2006.880318,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1703901,1
+1,56,Design of a Low-Voltage Instrumentation Amplifier at 1.2 V,10.1109/ASID52932.2021.9651684,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9651684,1
+1,57,Design of a current controlling circuit integrated with a power amplifier in gallium nitride process,10.1109/AMS57822.2023.10062333,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10062333,1
+1,58,Design of an Area Efficient and High-gain CMOS Instrumentation Amplifier for VLSI Applications,10.1109/i-PACT44901.2019.8960230,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8960230,1
+1,59,A comparison of InP HBT transimpedance amplifier topologies for high dynamic range photonic links,10.1109/APMC.2009.5385321,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5385321,1
+1,60,Improved Direct-Coupled High-Bandwidth Voltage Amplifier for B-H Characterization of Magnetic Materials,10.1109/PEDES56012.2022.10080210,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10080210,1
+1,61,An untrimmed CMOS amplifier with high CMRR and low offset for sensor applications,10.1109/APCCAS.2008.4746144,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4746144,1
+1,62,Measuring Nonlinear Differential RF Amplifiers Using One Single-Ended Source,10.1109/TIM.2007.894888,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4201019,1
+1,63,Instrumentation amplifier for ultra-wideband applications,10.1109/RADIOELEK.2018.8376384,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8376384,1
+1,64,Optimization Design of Fiber Optical Parametric Amplifier with Multi-Stage High Nonlinear Fiber,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8699639,1
+1,65,A Fully-Differential Biopotential Amplifier With a Reduced Number of Parts,10.1109/TIM.2022.3220284,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9940971,1
+1,66,Development of a Spaceborne Fiber-Based Laser MOPA Transmitter,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8700066,1
+1,67,A 5 GHz Low Noise Amplifier with On-Chip Transformer-Balun,10.1109/ECWT.2006.280510,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4057513,1
+1,68,Specific Analog Electronic Circuits Analysis Using PC-based Acquisition Card,10.1109/EURCON.2005.1630093,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1630093,1
+1,69,"Physical design, implementatation and FFT analysis of multistage differential amplifiers circuits using C5 process for deep submicron CMOS",10.1109/RISE.2017.8378197,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8378197,1
+1,70,A Differential Voltage Amplifier Scheme for Enhanced Sensitivity and SNR for Remote Piezopolymer-Based Sensor Systems,10.1109/TIM.2023.3334334,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10334473,1
+1,71,EMI-Induced Distortion of Baseband Signals in Current Feedback Instrumentation Amplifiers,10.1109/TEMC.2017.2736537,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8019850,1
+1,72,Chopper-stabilized Fully Differential Amplifier for Portable ECG Monitoring Systems using 90 nm Technology,10.1109/ICECET52533.2021.9698592,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9698592,1
+1,73,A high-speed 2nV/Hz1/2 16-channel current amplifier IC for PET,10.1109/NSSMIC.2009.5401723,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5401723,1
+1,74,A Fully-Differential Low-Noise Instrumentation Amplifier for Electrical Impedance Tomography,10.1109/ICM60448.2023.10378902,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10378902,1
+1,75,Design of Programmable Gain Instrumentation Amplifier using Demultiplexer,10.1109/STCR51658.2021.9589021,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9589021,1
+1,76,A 950-MHz fully differential class-E power amplifier in 0.18µm CMOS for wireless communications,10.1109/ELECTRO.2009.5441167,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5441167,1
+1,77,Exploring a new method for improving dynamic range of instrumentation amplifier for processing low voltage signals,10.1109/C2SPCA.2013.6749453,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6749453,1
+1,78,Fully differential CMOS programmable analogue sensor interface based on fully differential multiple differences amplifiers,10.1109/ICECS.2001.957697,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=957697,1
+1,79,Efficient Broadband Class AB Amplifier,10.1109/MWSCAS.2019.8885082,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8885082,1
+1,80,Design and Analysis of Low Power High Gain Amplifiers for DAC Application,10.1109/ICDSIS55133.2022.9915853,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9915853,1
+1,81,Linear and nonlinear crosstalk suppression for DWDM RZ-DPSK transmitter using a saturated SOA as power booster amplifier,10.1109/LPT.2006.871843,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1605297,1
+1,82,Power amplifier PAE and ruggedness optimization by second harmonic control,10.1109/BIPOL.2002.1042911,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1042911,1
+1,83,DC-Coupled Fully Differential Difference Amplifier-Based Analog Front-End Design for Wearable ECG Sensors,10.1109/IConSCEPT57958.2023.10170665,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10170665,1
+1,84,A 2.4-GHz CMOS power amplifier design for low power wireless sensors network,10.1109/RFIT.2009.5383675,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5383675,1
+1,85,Analysis of the Instrumentation Amplifiers Errors by Simulation Modeling,10.1109/UralCon52005.2021.9559549,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9559549,1
+1,86,Low Supply Voltage Electrocardiogram Signal Amplifier,10.1109/ICBBE.2007.208,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4272692,1
+1,87,A broadband low-noise single-ended input differential output amplifier with IM2 cancelling,10.1109/RFIC.2008.4561390,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4561390,1
+1,88,A CMOS Differential Difference Amplifier with Reduced Nonlinearity Error of Interpolation for Interpolating ADCs,10.1109/APCCAS.2006.342250,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4145319,1
+1,89,A fully differential operational amplifier for a low-pass filter in a DVB-H receiver,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5289588,1
+1,90,A Wide Linear Output Range Biopotential Amplifier for Physiological Measurement Frontend,10.1109/TIM.2014.2332240,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6855337,1
+1,91,CMOS differential neural amplifier with high input impedance,10.1109/NEWCAS.2015.7182037,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7182037,1
+1,92,A low power low noise capacitively coupled chopper instrumentation amplifier in 130 nm CMOS for portable biopotential acquisiton systems,10.1109/ICCMA.2013.6506168,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6506168,1
+1,93,Design of a 21 GHz UWB differential low noise amplifier using .13µm CMOS process,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5403943,1
+1,94,A 129.5-151.5GHz Fully Differential Power Amplifier in 65nm CMOS,10.1109/IEEE-IWS.2019.8803888,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8803888,1
+1,95,A novel fully differential biopotential amplifier with DC suppression,10.1109/TBME.2004.827931,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1315868,1
+1,96,A 0.09 $\mu$ W Low Power Front-End Biopotential Amplifier for Biosignal Recording,10.1109/TBCAS.2012.2188029,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6172530,1
+1,97,A Simulative Study on Operational Transconductance Amplifiers in CMOS Technology,10.1109/PICC57976.2023.10142743,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10142743,1
+1,98,Low Voltage CMOS Fully Differential Current Feedback Amplifier with Controllable 3-dB Bandwidth,10.1109/ICSPC.2007.4728263,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4728263,1
+1,99,The radiation-hardened instrumentation amplifier based on the differential difference operational amplifier for BiJFET technological process,10.1109/EWDTS.2015.7493132,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7493132,1

@@ -1,0 +1,100 @@
+﻿Page,Index,Title,DOI,PDFLink,Downloaded
+1,0,Ku-band differential lossy filter manufactured in thin-film on alumina technology,10.1109/IMFW49589.2021.9642377,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9642377,1
+1,1,An Integrated Passive Device RF Front-End for Narrow-Band Internet-of-Things Modules,10.1109/IMFW49589.2021.9642339,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9642339,1
+1,2,Planar and Low-consumption Switchable Filter Banks with Tunable Passband and Stopband Responses,10.1109/IMFW49589.2021.9642281,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9642281,1
+1,3,Digital-Filter-Based Flat-Group-Delay RF Analog Circuits: Application to Dolph-Chebyshev Windows,10.1109/TCSII.2023.3344678,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10365555,1
+1,4,Discrete-time Decimation filter Design for Multistandard RF Sub-sampling Receiver,10.1109/ICECS.2007.4511260,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4511260,1
+1,5,High-Resolution Tunable Microwave Filter Using Hybrid Analog-Digital Controls via an Acoustooptic Tunable Filter and Digital Micromirror Device,10.1109/JLT.2008.925045,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4738498,1
+1,6,Compact fully reconfigurable multi-stage RF photonic filters using high-Q silicon microdisk resonators,10.1109/GROUP4.2010.5643322,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5643322,1
+1,7,An Analog Baseband Spectrum Sensing Circuit Employing Voltage Follower-Based Multiorder Channel Selection Filters,10.1109/TCSII.2022.3202218,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9868828,1
+1,8,Frequency-Transformation-Based Co-Designed Lowpass-Single/Multi-Passband-Highpass RF Filters,10.1109/TCSI.2024.3382094,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10493860,1
+1,9,Efficient Halfband FIR Filter Structures for RF and IF Data Converters,10.1109/TCSII.2015.2468932,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7202882,1
+1,10,Design of Coupled-Resonator Filtering Network With Asymmetric Arbitrary Group-Delay Response and Frequency-Variant Coupling,10.1109/IMFW49589.2021.9642355,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9642355,1
+1,11,All-Pass Second-Order Active RC-Filter with Pole Q-Factor's Independent Adjustment on Differential Difference Amplifiers,10.1109/EWDTS.2019.8884395,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8884395,1
+1,12,Lumped-element RF analog multi-band bandpass filter concept for software-defined-radio architectures,10.1109/NEWCAS.2017.8010115,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8010115,1
+1,13,An Anti-Aliasing Filter with a Programmable Bandwidth of 10–500MHz for Supply Modulator,10.1109/ISCAS.2018.8350991,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8350991,1
+1,14,Flat-Group-Delay RF Planar Filters With Transmission Zeros Using Transversal Circuits,10.1109/TCSI.2023.3298219,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10199152,1
+1,15,On the Synthesis of Lossy Analog Filter Networks With Lossless-Like Passband Shape,10.1109/NEWCAS57931.2023.10198147,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10198147,1
+1,16,Fully reconfigurable compact RF photonic filters using high-Q silicon microdisk resonators,10.1109/PHOTONICS.2010.5698846,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5698846,1
+1,17,Fully reconfigurable compact RF photonic filters using high-Q silicon microdisk resonators,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5875448,1
+1,18,RF Input-Quasi-Reflectionless Dispersive-Delay Structures Based on Complementary-Diplexer Circuits,10.1109/IMFW59690.2024.10477144,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10477144,1
+1,19,"A S/C/X/Ku-band, 4-Tap, Digitally Controllable Analog FIR Filter with Reconfigurable Bandwidth and RF Filtering Profile",10.1109/BCICTS50416.2021.9682205,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9682205,1
+1,20,A 31-Tap Reconfigurable Analog FIR Filter Using Heterogeneously Integrated Polystrata Delay-Lines,10.1109/LMWC.2022.3168505,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9772077,1
+1,21,Low pass reconfigurable decimation filter architecture for 3.8 MHz frequency,10.1109/RTEICT.2017.8256735,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8256735,1
+1,22,Wideband RF and analog self-interference cancellation filter for simultaneous transmit and receive system,10.1109/APUSNCURSINRSM.2017.8072509,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8072509,1
+1,23,Frequency-Interleaved ADC with RF Equivalent Ideal Filter for Broadband Optical Communication Receivers,10.1109/ICECS53924.2021.9665589,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9665589,1
+1,24,Dynamic linearity improvement of phase and frequency modulated microwave photonic links using optical lattice filter discriminators,10.1109/MWP.2011.6088664,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6088664,1
+1,25,New approach to design tunable RF filters using DBR topology for SDR receivers,10.1109/MMS.2013.6663078,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6663078,1
+1,26,Analog Filter Bank for Cochlear Radio,10.1109/IMWS.2010.5441014,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5441014,1
+1,27,Analog RF Performance of a CMOS Optical Filter,10.1109/GROUP4.2006.1708211,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1708211,1
+1,28,A Low-Power High Order N-Path Filter With Mixed-Type Gain Implementation,10.1109/ICMMT58241.2023.10276575,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10276575,1
+1,29,A Reconfigurable and Programmable Filter for Software Defined Radio Based on a Transconductor-Capacitor Analog Array,10.1109/IDT.2007.4437422,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4437422,1
+1,30,"Reconfigurable digital radar receiver implemented in FPGA using Under-sampling, Direct IQ generation, Multi-rate filter and pulse compression",10.1109/IMaRC.2014.7039001,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7039001,1
+1,31,Impact of Reference Clock and Filtering on the Performance of Direct Digital Synthesizer,10.1109/ICCSP.2018.8524432,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8524432,1
+1,32,Dual-mode high gain and high-Q active RF band pass filter,10.1109/IranianCEE.2013.6599861,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6599861,1
+1,33,RF bandpass filter design based on CMOS active inductors,10.1109/TCSII.2003.820235,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1255678,1
+1,34,Reduce complexity computation of MIMO decomposition based on single RF using Kalman filter,10.1109/KCIC.2016.7883627,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7883627,1
+1,35,Direct RF sampling employing time-skewed analog to digital converters and complex finite impulse response filters,10.1109/RADAR.2006.1631843,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1631843,1
+1,36,A 256MHz 60dB gain analog baseband chain with current-mode programmable gain amplifiers and low-pass filter,10.1109/EDSSC.2014.7061170,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7061170,1
+1,37,Simultaneous Microwave Photonic Analog-to-Digital Conversion and Digital Filtering,10.1109/LPT.2018.2789587,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8246588,1
+1,38,Ultra low power bandpass sampling architectures using Lamb Wave filters,10.1109/NEWCAS.2010.5603740,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5603740,1
+1,39,A reconfigurable direct RF receiver architecture,10.1109/ISCAS.2008.4541994,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4541994,1
+1,40,A sharp programmable passive filter based on filtering by Aliasing,10.1109/VLSIC.2015.7231326,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7231326,1
+1,41,UHF Receiver Front-End: Implementation and Analog Baseband Design Considerations,10.1109/TVLSI.2010.2096438,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5678608,1
+1,42,A Digital Filtering ADC With Programmable Blocker Cancellation for Wireless Receivers,10.1109/JSSC.2017.2766213,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8115160,1
+1,43,Adaptable RF/Analog Transmit Leakage Canceller for Simultaneous Transmit/Receive Applications,10.1109/RadarConf2147009.2021.9454973,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9454973,1
+1,44,Programmable Photonic Microwave Filters Monolithically Integrated in InP–InGaAsP,10.1109/JLT.2011.2134073,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5740298,1
+1,45,Design and development of band pass filter for X-band RADAR receiver system,10.1109/RTEICT.2017.8256963,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8256963,1
+1,46,Digital compensation in IQ modulators using adaptive FIR filters,10.1109/TVT.2004.836934,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1360139,1
+1,47,A Wideband Beamformer using 3.25 GS/sec Discrete-time Analog FIR Filter ICs,10.23919/EuMC.2019.8910895,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8910895,1
+1,48,A Configurable Active Bandpass Filter with DC Offset Suppression for Direct Down-Conversion Wake-Up Receivers in 28 nm,10.1109/PRIME55000.2022.9816802,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9816802,1
+1,49,Analog Filtered links: A unifying approach for Microwave Photonic systems,10.1109/ICTON.2012.6253779,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6253779,1
+1,50,Exploiting Parasitic Capacitances in 3-D Inductors to Design RF CMOS Quasi-Elliptic-Type Broad-Band Bandpass Filters,10.1109/TCSII.2021.3076370,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9417108,1
+1,51,A 3.5GHz Low Power Programmable Transversal Filter RFIC Implemented in 47GHz SiGe Technology,10.1109/BIPOL.2006.311115,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4100250,1
+1,52,RF-to-Baseband Digitization in 40 nm CMOS With RF Bandpass $\Delta\Sigma$  Modulator and Polyphase Decimation Filter,10.1109/JSSC.2012.2185149,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6156481,1
+1,53,Nyquist folding analog-to-information receiver: Autonomous information recovery using quadrature mirror filtering,10.1109/ACSSC.2009.5470156,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5470156,1
+1,54,Recent Advances in Microwave Filters,10.1109/IMWS.2008.4782249,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4782249,1
+1,55,Wide-band multipath A to D converter for cognitive radio applications,10.1109/IMWS.2010.5440996,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5440996,1
+1,56,An Adaptive Kalman Filter based Digital Phase Detector for All Digital Phase-Locked Loop,10.1109/IWS52775.2021.9499674,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9499674,1
+1,57,Choosing a FIR filter order for the linearization of an analog LPF phase response,10.1109/SYNCHROINFO.2018.8457045,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8457045,1
+1,58,A tunable RF filter for multistandard GSM/UMTS/WiFi/LTE receiver,10.1109/MMS.2014.7088928,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7088928,1
+1,59,A digital-RF converter architecture for IQ modulator with discrete-time low resolution quadrature LO,10.1109/ICECS.2013.6815496,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6815496,1
+1,60,Vertical-Cavity Surface-Emitting Laser for Tunable Microwave Photonic Filter,10.1109/JSTQE.2013.2249044,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6484875,1
+1,62,A 2.4 GHz RF transceiver with digital channel-selection filter for Bluetooth,10.1109/ISSCC.2002.992955,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=992955,1
+1,63,A notch filter alignment circuit for wireless communication FDD systems,,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5728502,1
+1,64,RF Analog Beamforming Fan Filters Using CMOS All-Pass Time Delay Approximations,10.1109/TCSI.2012.2185294,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6162970,1
+1,65,Modulated hybrid filter banks for data conversion,10.1109/ICASSP.2005.1416085,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1416085,1
+1,66,RF Receiver Front-End and Pipelined Analog to Digital Chip Design,10.1109/ICCE-Asia53811.2021.9641898,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9641898,1
+1,67,Low-power CMOS baseband filter for dual-mode direct conversion receiver,10.1109/MWSCAS.2003.1562229,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1562229,1
+1,68,RF Multi-Functional Input-Reflectionless Dispersive-Delay Structure With Sharp-Rejection Filtering Using Channelization Techniques,10.1109/TCSII.2022.3228391,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9979779,1
+1,69,Low cost built-in-tuning of on-chip passive filters for low-if double quadrature rf receiver,10.1109/LATW.2015.7102501,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7102501,1
+1,70,A Time-Approximation Filter for Direct RF Transmitter,10.1109/JSSC.2020.3036342,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9261446,1
+1,71,Silicon-Based Integrated RF Filter with 3D Coupled Pole Based on Through-Silicon Via Technology,10.1109/IMWS-AMP57814.2023.10381145,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10381145,1
+1,72,IEE Twelfth Saraga Colloquium on 'Digital and Analogue Filters and Filtering Systems' (Digest No.197),,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=193766,1
+1,73,Ka-band Cavity Filter Manufactured in 3D-printed Alumina Technology,10.23919/EuMC54642.2022.9924353,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9924353,1
+1,74,Design of Dual-Channel Filter Based on Dual-Mode Dielectric Resonators,10.1109/TCSII.2021.3082516,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9438628,1
+1,75,Investigation of a Cryogenic RF-MEMS Filter for Quantum Bit State Controller,10.1109/IMWS-AMP57814.2023.10381219,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10381219,1
+1,76,Design of a Tunable Anti-Aliasing Filter for Multistandard RF Subsampling GNSS Receivers,10.1109/TCSII.2018.2848976,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8388264,1
+1,77,Hybrid recursive active filters for duplexing in RF transmitter front-ends,10.1109/MMS.2015.7375476,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7375476,1
+1,78,Fully Adaptive Multiband Bandstop Filtering Sections and Their Application to Multifunctional Components,10.1109/TMTT.2016.2618396,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7737004,1
+1,79,Design and Evaluation of Active High Pass Filter Topologies for Analog Baseband,10.1109/MWSCAS60917.2024.10658726,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10658726,1
+1,80,Direct RF sampling mixer with recursive filtering in charge domain,10.1109/ISCAS.2004.1328260,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1328260,1
+1,81,A Direct ΔΣ Receiver with Current-Mode Digitally-Synthesized Frequency - Translated RF Filtering,10.1109/RFIC.2018.8429047,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8429047,1
+1,82,High-Performance 1.5–2.5-GHz RF-MEMS Tunable Filters for Wireless Applications,10.1109/TMTT.2010.2049166,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5471111,1
+1,83,A Closed-Loop Reconfigurable Analog Baseband Circuitry With Open-Loop Tunable Notch Filters to Improve Receiver Tx Leakage and Close-in Blocker Tolerance,10.1109/TCSII.2021.3125305,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9601299,1
+1,84,Printed microwave filter using monopole resonators,10.1109/ICET.2012.6375464,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6375464,1
+1,85,Linear Time-Invariant Behavioral Digital Models of Frequency-Periodic RF/Microwave Filters,10.23919/EuMC.2018.8541702,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8541702,1
+1,86,Gen1 Active Tunable SiGe Integrated Parallel Synthesis Filters (PSF) without Q-Enhancement,10.1109/BCICTS54660.2023.10311033,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10311033,1
+1,87,A Blocker Tolerant N-path Filter with Tunable Notches for Software-Defined Radio Applications,10.1109/ICCS56666.2022.9936140,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9936140,1
+1,88,"Moving Tunable Filters Forward: A \""Heterointegration\"" Research Project for Tunable Filters Combining MEMS and RF SAW\/BAW Technologies",10.1109/MMM.2015.2431237,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7153063,1
+1,89,A Baseband Analog Spectrum Sensing Unit Employing Super Source Follower-Based Channel Selection Filters,10.1109/ISOCC50952.2020.9333060,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9333060,1
+1,90,A Low-Power Interference-Tolerance Wideband Receiver for 802.11af/ah Long-Range Wi-Fi With Post-LNA Active  $N$ -Path Filter,10.1109/TMTT.2018.2805341,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8304598,1
+1,91,IEE Colloquium on 'Digital and Analogue Filter and Filtering Systems' (Digest No.187),,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=182267,1
+1,92,IEE Colloquium 'Digital and Analogue Filters and Filtering Systems' (Digest No.1994/233),,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=472887,1
+1,93,"Multi-Functional Active RC-Filter (BPF, LPF, HPF, RF) for Designing Specialized Gate-Array Master Chip and Frequency Selection Devices",10.1109/TELFOR48224.2019.8971105,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8971105,1
+1,94,Analysis and Design of Wideband Filtering ADCs Using Continuous-Time Pipelining,10.1109/JSSC.2023.3276633,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10141864,1
+1,95,"Design, analysis, and implementation of analog complex filter for low-IF Wireless LAN application",10.1109/ICVD.2004.1260958,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1260958,1
+1,96,"A multiband multistandard notch filter LNA for LTE, WCDMA and GSM for SAW-less frontends",,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6173796,1
+1,97,Wideband Mixed-Domain Multi-Tap Finite-Impulse Response Filtering of Out-of-Band Noise Floor in Watt-Class Digital Transmitters,10.1109/JSSC.2017.2760899,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8100710,1
+1,98,A 320μW Receiver with -58dB SIR Leveraging a Time-Varying N-Path Filter,10.1109/RFIC54546.2022.9863165,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9863165,1
+1,99,Theoretical basis and implementational challenges of sampling with internal filtering,10.1109/AERO.2010.5446907,https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5446907,1

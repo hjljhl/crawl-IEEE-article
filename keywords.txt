@@ -1,2 +1,2 @@
-low noise amplifier
-operational amplifier
+power amplifier OR rf power amplifier OR audio power amplifier OR class amplifier
+transmitter OR receiver OR transceiver OR RF transceiver OR analog transceiver
